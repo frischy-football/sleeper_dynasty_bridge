@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T20:15:27.318077+00:00",
+  "generated_at_utc": "2026-10-13T02:33:16.703230+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -80,6 +80,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1415548921350012928",
+    "shard": 176,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -125,18 +130,13 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1415395430363127808",
-    "shard": 176,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791819076676,
+    "last_message_time": 1791855671779,
     "last_pinned_message_id": "1413415410887319552",
     "last_read_id": null,
     "draft_id": "1328462469970038784",
@@ -793,7 +793,7 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 50,
           "years_exp": 8,
           "is_starter": false,
@@ -1782,7 +1782,7 @@
           "position": "TE",
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 212,
           "years_exp": 0,
           "is_starter": false,
@@ -2311,7 +2311,7 @@
           "position": "WR",
           "team": "SEA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 5,
           "years_exp": 3,
           "is_starter": true,
@@ -2502,7 +2502,7 @@
           "position": "QB",
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 242,
           "years_exp": 0,
           "is_starter": false,
@@ -3841,7 +3841,7 @@
         "4943": 10.3,
         "5846": 5.3,
         "6083": 5.0,
-        "8134": 0.0,
+        "8134": 1.6,
         "8136": 3.0,
         "9509": 15.8,
         "KC": 0.0,
@@ -3849,7 +3849,7 @@
       }
     },
     {
-      "points": 136.86,
+      "points": 152.76,
       "players": [
         "10229",
         "10236",
@@ -3898,19 +3898,19 @@
       ],
       "starters_points": [
         39.46,
-        0.0,
+        14.2,
         1.1,
         12.0,
         9.5,
         18.8,
         23.0,
-        0.0,
+        1.7,
         23.0,
         10.0
       ],
       "players_points": {
         "10229": 0.0,
-        "10236": 0.0,
+        "10236": 1.7,
         "11559": 14.4,
         "11564": 39.46,
         "11575": 0.0,
@@ -3934,14 +3934,14 @@
         "6794": 18.8,
         "7567": 5.8,
         "8135": 4.6,
-        "8138": 0.0,
+        "8138": 14.2,
         "8151": 0.0,
         "9754": 0.0,
         "CIN": 10.0
       }
     },
     {
-      "points": 133.7,
+      "points": 151.8,
       "players": [
         "10219",
         "11834",
@@ -3990,7 +3990,7 @@
         22.0,
         11.2,
         7.1,
-        0.0,
+        18.1,
         12.2,
         13.6,
         21.6,
@@ -4022,14 +4022,14 @@
         "7528": 2.4,
         "8130": 21.6,
         "9482": 1.2,
-        "9493": 0.0,
+        "9493": 18.1,
         "9504": 6.8,
         "96": 22.0,
         "SF": 21.0
       }
     },
     {
-      "points": 143.84,
+      "points": 153.54,
       "players": [
         "10859",
         "11618",
@@ -4079,7 +4079,7 @@
         17.3,
         12.9,
         8.6,
-        0.0,
+        9.7,
         19.8,
         5.6,
         21.0,
@@ -4097,7 +4097,7 @@
         "13272": 0.0,
         "13288": 0.0,
         "13311": 2.6,
-        "2133": 0.0,
+        "2133": 9.7,
         "3163": 28.94,
         "4137": 0.0,
         "4199": 18.7,
@@ -4195,7 +4195,7 @@
         "9228": 0.0,
         "9758": 20.94,
         "DAL": 1.0,
-        "LAR": 0.0
+        "LAR": 5.0
       }
     },
     {
@@ -4257,7 +4257,7 @@
       ],
       "players_points": {
         "11583": 0.0,
-        "11586": 0.0,
+        "11586": 11.8,
         "11610": 12.1,
         "11628": 0.0,
         "11631": 0.0,
@@ -4285,7 +4285,7 @@
       }
     },
     {
-      "points": 102.3,
+      "points": 113.54,
       "players": [
         "10213",
         "11625",
@@ -4331,7 +4331,7 @@
         "JAX"
       ],
       "starters_points": [
-        0.0,
+        11.24,
         7.0,
         11.6,
         2.9,
@@ -4358,7 +4358,7 @@
         "3257": 26.28,
         "3321": 0.0,
         "4035": 2.6,
-        "421": 0.0,
+        "421": 11.24,
         "5012": 4.8,
         "5844": 1.7,
         "5850": 0.0,
@@ -4433,7 +4433,7 @@
       "players_points": {
         "11576": 18.6,
         "11635": 0.0,
-        "11637": 0.0,
+        "11637": 7.7,
         "12497": 0.0,
         "12504": 2.6,
         "12509": 3.6,
@@ -4526,7 +4526,7 @@
         "13330": 0.3,
         "13380": 0.0,
         "13425": 13.86,
-        "3271": 0.0,
+        "3271": 9.3,
         "3634": 3.4,
         "4017": 12.2,
         "4034": 17.3,
@@ -4543,7 +4543,7 @@
       }
     },
     {
-      "points": 101.28,
+      "points": 108.08,
       "players": [
         "11435",
         "11539",
@@ -4586,7 +4586,7 @@
       ],
       "starters_points": [
         25.28,
-        0.0,
+        6.8,
         0.0,
         28.0,
         23.4,
@@ -4606,19 +4606,19 @@
         "13345": 0.0,
         "13414": 1.6,
         "4950": 0.0,
-        "4984": 0.0,
+        "4984": 9.92,
         "6804": 25.28,
         "6806": 15.4,
         "7594": 0.0,
         "8121": 2.6,
         "8137": 28.0,
         "8146": 23.4,
-        "8150": 0.0,
+        "8150": 6.8,
         "9484": 11.6,
         "9494": 2.9,
         "9511": 5.9,
         "9756": 0.0,
-        "BUF": 0.0,
+        "BUF": 2.0,
         "CHI": 3.0
       }
     }
@@ -8483,7 +8483,7 @@
       "injury_status": null,
       "search_rank": 190,
       "years_exp": 2,
-      "depth_chart_position": null
+      "depth_chart_position": "RB"
     },
     {
       "player_id": "12536",
@@ -8671,6 +8671,17 @@
       "search_rank": 237,
       "years_exp": 6,
       "depth_chart_position": "QB"
+    },
+    {
+      "player_id": "11633",
+      "name": "Jamari Thrash",
+      "position": "WR",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 240,
+      "years_exp": 2,
+      "depth_chart_position": null
     },
     {
       "player_id": "11617",
@@ -9859,17 +9870,6 @@
       "search_rank": 519,
       "years_exp": 5,
       "depth_chart_position": null
-    },
-    {
-      "player_id": "11377",
-      "name": "Tyrell Shavers",
-      "position": "WR",
-      "team": "BUF",
-      "status": "Active",
-      "injury_status": "PUP",
-      "search_rank": 519,
-      "years_exp": 3,
-      "depth_chart_position": "RWR"
     }
   ],
   "free_agents_by_position": {
@@ -10248,7 +10248,7 @@
         "injury_status": null,
         "search_rank": 190,
         "years_exp": 2,
-        "depth_chart_position": null
+        "depth_chart_position": "RB"
       },
       {
         "player_id": "11569",
@@ -10594,6 +10594,17 @@
         "depth_chart_position": "LWR"
       },
       {
+        "player_id": "11633",
+        "name": "Jamari Thrash",
+        "position": "WR",
+        "team": "LV",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 240,
+        "years_exp": 2,
+        "depth_chart_position": null
+      },
+      {
         "player_id": "11617",
         "name": "Malachi Corley",
         "position": "WR",
@@ -10900,17 +10911,6 @@
         "search_rank": 498,
         "years_exp": 5,
         "depth_chart_position": null
-      },
-      {
-        "player_id": "11320",
-        "name": "Nikko Remigio",
-        "position": "WR",
-        "team": "KC",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 498,
-        "years_exp": 3,
-        "depth_chart_position": "SWR"
       }
     ],
     "TE": [
