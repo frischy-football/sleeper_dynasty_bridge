@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T07:22:01.289161+00:00",
+  "generated_at_utc": "2026-10-15T13:22:17.139603+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -84,7 +84,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1416237526636679168",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -130,6 +129,7 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1416237526636679168",
     "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -142,6 +142,11 @@
     "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -7813,10 +7813,10 @@
         "adds": {
           "12536": 5
         },
-        "drops": null,
         "consenter_ids": [
           5
         ],
+        "drops": null,
         "roster_ids": [
           5
         ],
@@ -7836,12 +7836,12 @@
         "adds": {
           "ATL": 4
         },
-        "drops": {
-          "8129": 4
-        },
         "consenter_ids": [
           4
         ],
+        "drops": {
+          "8129": 4
+        },
         "roster_ids": [
           4
         ],
@@ -7861,12 +7861,12 @@
         "adds": {
           "9757": 3
         },
-        "drops": {
-          "9482": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "9482": 3
+        },
         "roster_ids": [
           3
         ],
