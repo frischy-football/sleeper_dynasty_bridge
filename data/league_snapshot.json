@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-17T18:26:17.251012+00:00",
+  "generated_at_utc": "2026-10-17T21:25:02.540217+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -80,10 +80,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 176,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -129,24 +129,19 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1417247460618760192",
+    "last_message_id": "1417274852024356864",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792260635098,
+    "last_message_time": 1792267165718,
     "last_pinned_message_id": "1417247460618760192",
-    "draft_id": "1328462469970038784",
     "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -367,8 +367,8 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 147,
           "years_exp": 0,
           "is_starter": false,
@@ -485,7 +485,7 @@
           "position": "RB",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 125,
           "years_exp": 4,
           "is_starter": false,
@@ -770,7 +770,7 @@
           "injury_status": null,
           "search_rank": 673,
           "years_exp": 9,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -793,10 +793,10 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "search_rank": 18,
           "years_exp": 7,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1153,7 +1153,7 @@
           "position": "WR",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 55,
           "years_exp": 7,
           "is_starter": true,
@@ -1538,8 +1538,8 @@
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 28,
           "years_exp": 6,
           "is_starter": false,
@@ -2116,7 +2116,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Inactive",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "search_rank": 151,
           "years_exp": 0,
           "is_starter": false,
@@ -3269,19 +3269,6 @@
           "is_taxi": false
         },
         {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
-          "position": "WR",
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 645,
-          "years_exp": 10,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
           "player_id": "4034",
           "name": "Christian McCaffrey",
           "position": "RB",
@@ -3395,6 +3382,19 @@
           "search_rank": 52,
           "years_exp": 4,
           "is_starter": true,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 677,
+          "years_exp": 3,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3886,7 +3886,7 @@
         "11564",
         "8138",
         "8151",
-        "4454",
+        "5859",
         "1479",
         "12514",
         "11604",
@@ -4472,7 +4472,6 @@
         "13330",
         "13380",
         "13425",
-        "3634",
         "4034",
         "7021",
         "7526",
@@ -4482,6 +4481,7 @@
         "8154",
         "8167",
         "8228",
+        "9230",
         "9480",
         "9486",
         "PIT"
@@ -4525,7 +4525,6 @@
         "13330": 0.0,
         "13380": 0.0,
         "13425": 0.0,
-        "3634": 0.0,
         "4034": 0.0,
         "7021": 0.0,
         "7526": 6.4,
@@ -4535,6 +4534,7 @@
         "8154": 0.0,
         "8167": 0.0,
         "8228": 0.0,
+        "9230": 0.0,
         "9480": 0.0,
         "9486": 0.0,
         "PIT": 0.0
@@ -7815,6 +7815,31 @@
       }
     ],
     "6": [
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1792267165692,
+        "settings": null,
+        "leg": 6,
+        "draft_picks": [],
+        "creator": "890612043944792064",
+        "transaction_id": "1417274851919454208",
+        "adds": {
+          "9230": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "drops": {
+          "3634": 9
+        },
+        "roster_ids": [
+          9
+        ],
+        "status_updated": 1792267165692,
+        "waiver_budget": []
+      },
       {
         "status": "complete",
         "type": "free_agent",
