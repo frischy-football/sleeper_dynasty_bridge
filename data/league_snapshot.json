@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T09:59:14.357840+00:00",
+  "generated_at_utc": "2026-10-20T15:00:54.330050+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -129,17 +129,17 @@
     "season_type": "regular",
     "sport": "nfl",
     "shard": 176,
-    "last_message_id": "1418096396568903680",
+    "last_message_id": "1418282885764358144",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792463037201,
+    "last_message_time": 1792507499690,
     "last_pinned_message_id": "1417419608821960704",
-    "draft_id": "1328462469970038784",
     "last_read_id": null,
+    "draft_id": "1328462469970038784",
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
     "roster_positions": [
@@ -563,7 +563,7 @@
           "search_rank": 29,
           "years_exp": 3,
           "is_starter": false,
-          "is_reserve": true,
+          "is_reserve": false,
           "is_taxi": false
         },
         {
@@ -718,7 +718,7 @@
           "injury_status": null,
           "search_rank": 180,
           "years_exp": 13,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -771,7 +771,7 @@
           "search_rank": 50,
           "years_exp": 8,
           "is_starter": false,
-          "is_reserve": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -809,7 +809,7 @@
           "injury_status": null,
           "search_rank": 11,
           "years_exp": 6,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -822,7 +822,7 @@
           "injury_status": null,
           "search_rank": 5,
           "years_exp": 4,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -848,7 +848,7 @@
           "injury_status": "IR",
           "search_rank": 91,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -874,7 +874,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -887,7 +887,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         }
@@ -961,7 +961,7 @@
           "injury_status": null,
           "search_rank": 36,
           "years_exp": 1,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1026,7 +1026,7 @@
           "injury_status": "Out",
           "search_rank": 45,
           "years_exp": 1,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1052,9 +1052,9 @@
           "injury_status": null,
           "search_rank": 194,
           "years_exp": 0,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
-          "is_taxi": true
+          "is_taxi": false
         },
         {
           "player_id": "13317",
@@ -1143,7 +1143,7 @@
           "injury_status": "Out",
           "search_rank": 55,
           "years_exp": 7,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1194,19 +1194,6 @@
           "status": "Active",
           "injury_status": null,
           "search_rank": 170,
-          "years_exp": 5,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 230,
           "years_exp": 5,
           "is_starter": false,
           "is_reserve": false,
@@ -2163,19 +2150,6 @@
           "is_taxi": false
         },
         {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
-          "team": "SF",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 174,
-          "years_exp": 8,
-          "is_starter": true,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
           "player_id": "5947",
           "name": "Jakobi Meyers",
           "position": "WR",
@@ -2401,7 +2375,7 @@
           "injury_status": null,
           "search_rank": 44,
           "years_exp": 1,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2531,7 +2505,7 @@
           "injury_status": "Questionable",
           "search_rank": 119,
           "years_exp": 9,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2558,7 +2532,7 @@
           "search_rank": 75,
           "years_exp": 8,
           "is_starter": false,
-          "is_reserve": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -2570,7 +2544,7 @@
           "injury_status": null,
           "search_rank": 96,
           "years_exp": 8,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2583,7 +2557,7 @@
           "injury_status": "Out",
           "search_rank": 128,
           "years_exp": 7,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2596,8 +2570,8 @@
           "injury_status": "NA",
           "search_rank": 20,
           "years_exp": 7,
-          "is_starter": false,
-          "is_reserve": true,
+          "is_starter": true,
+          "is_reserve": false,
           "is_taxi": false
         },
         {
@@ -2674,7 +2648,7 @@
           "injury_status": null,
           "search_rank": 14,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2735,7 +2709,7 @@
           "injury_status": null,
           "search_rank": 135,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2748,7 +2722,7 @@
           "injury_status": "Out",
           "search_rank": 35,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2917,7 +2891,7 @@
           "injury_status": null,
           "search_rank": 3,
           "years_exp": 5,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2982,7 +2956,7 @@
           "injury_status": "Out",
           "search_rank": 27,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3134,7 +3108,7 @@
           "injury_status": null,
           "search_rank": 23,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3368,7 +3342,7 @@
           "injury_status": null,
           "search_rank": 677,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3933,7 +3907,6 @@
         "6813",
         "7525",
         "7528",
-        "7600",
         "8130",
         "9493",
         "96",
@@ -3950,7 +3923,7 @@
         "13346",
         "7525",
         "8130",
-        "5927",
+        "13274",
         "3451",
         "SF"
       ],
@@ -3989,7 +3962,6 @@
         "6813": 0.0,
         "7525": 0.0,
         "7528": 0.0,
-        "7600": 0.0,
         "8130": 0.0,
         "9493": 0.0,
         "96": 0.0,
@@ -4182,7 +4154,6 @@
         "4147",
         "4217",
         "4866",
-        "5189",
         "5947",
         "6770",
         "6801",
@@ -4237,7 +4208,6 @@
         "4147": 0.0,
         "4217": 0.0,
         "4866": 0.0,
-        "5189": 0.0,
         "5947": 0.0,
         "6770": 0.0,
         "6801": 0.0,
@@ -4289,11 +4259,11 @@
       "starters": [
         "421",
         "9224",
-        "4035",
+        "5850",
         "6786",
         "7569",
         "11632",
-        "12518",
+        "5844",
         "10213",
         "12711",
         "BAL"
@@ -4380,7 +4350,7 @@
         "8155",
         "9500",
         "9997",
-        "11635",
+        "7564",
         "12517",
         "4037",
         "6650",
@@ -4460,7 +4430,7 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "11566",
+        "9230",
         "4034",
         "8228",
         "7526",
@@ -6909,6 +6879,52 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1792507499661,
+        "settings": null,
+        "leg": 6,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1418282885646942208",
+        "adds": null,
+        "drops": {
+          "7600": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1792507499661,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1792500153647,
+        "settings": null,
+        "leg": 6,
+        "draft_picks": [],
+        "creator": "1155579787705110528",
+        "transaction_id": "1418252074231078912",
+        "adds": null,
+        "drops": {
+          "5189": 6
+        },
+        "consenter_ids": [
+          6
+        ],
+        "roster_ids": [
+          6
+        ],
+        "status_updated": 1792500153647,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1792383153843,
         "settings": null,
         "leg": 6,
@@ -8155,6 +8171,17 @@
       "depth_chart_position": "TE"
     },
     {
+      "player_id": "7600",
+      "name": "Pat Freiermuth",
+      "position": "TE",
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 230,
+      "years_exp": 5,
+      "depth_chart_position": "TE"
+    },
+    {
       "player_id": "6768",
       "name": "Tua Tagovailoa",
       "position": "QB",
@@ -9341,17 +9368,6 @@
       "search_rank": 512,
       "years_exp": 1,
       "depth_chart_position": null
-    },
-    {
-      "player_id": "13434",
-      "name": "Will Kacmarek",
-      "position": "TE",
-      "team": "MIA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 514,
-      "years_exp": 0,
-      "depth_chart_position": "TE"
     }
   ],
   "free_agents_by_position": {
@@ -10496,6 +10512,17 @@
         "depth_chart_position": "TE"
       },
       {
+        "player_id": "7600",
+        "name": "Pat Freiermuth",
+        "position": "TE",
+        "team": "PIT",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 230,
+        "years_exp": 5,
+        "depth_chart_position": "TE"
+      },
+      {
         "player_id": "8219",
         "name": "Jelani Woods",
         "position": "TE",
@@ -10834,17 +10861,6 @@
         "injury_status": null,
         "search_rank": 488,
         "years_exp": 6,
-        "depth_chart_position": "TE"
-      },
-      {
-        "player_id": "7842",
-        "name": "Luke Farrell",
-        "position": "TE",
-        "team": "SF",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 491,
-        "years_exp": 5,
         "depth_chart_position": "TE"
       }
     ]
