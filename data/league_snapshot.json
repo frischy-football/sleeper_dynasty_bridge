@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T13:43:26.907240+00:00",
+  "generated_at_utc": "2026-10-21T18:34:26.959563+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -80,10 +80,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 176,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -129,19 +125,28 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1418612363422101504",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 176,
+    "last_message_id": "1418649834293899264",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792586053284,
+    "last_message_time": 1792594987037,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
-    "draft_id": "1328462469970038784",
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -1169,7 +1169,7 @@
           "injury_status": "Questionable",
           "search_rank": 10,
           "years_exp": 8,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1260,7 +1260,7 @@
           "injury_status": null,
           "search_rank": 188,
           "years_exp": 21,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1398,6 +1398,19 @@
           "status": "Active",
           "injury_status": null,
           "search_rank": 12,
+          "years_exp": 1,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 678,
           "years_exp": 1,
           "is_starter": false,
           "is_reserve": false,
@@ -1620,19 +1633,6 @@
           "injury_status": "IR",
           "search_rank": 147,
           "years_exp": 3,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "ATL",
-          "name": "Atlanta Falcons",
-          "position": "DEF",
-          "team": "ATL",
-          "status": null,
-          "injury_status": null,
-          "search_rank": null,
-          "years_exp": null,
           "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
@@ -2385,7 +2385,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "search_rank": 162,
           "years_exp": 2,
           "is_starter": false,
@@ -2571,7 +2571,7 @@
           "search_rank": 74,
           "years_exp": 8,
           "is_starter": false,
-          "is_reserve": true,
+          "is_reserve": false,
           "is_taxi": false
         },
         {
@@ -2649,7 +2649,7 @@
           "search_rank": 106,
           "years_exp": 6,
           "is_starter": false,
-          "is_reserve": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -2700,7 +2700,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2762,7 +2762,7 @@
           "search_rank": 35,
           "years_exp": 2,
           "is_starter": false,
-          "is_reserve": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -2840,7 +2840,7 @@
           "search_rank": 95,
           "years_exp": 1,
           "is_starter": false,
-          "is_reserve": true,
+          "is_reserve": false,
           "is_taxi": false
         },
         {
@@ -2969,7 +2969,7 @@
           "injury_status": null,
           "search_rank": 58,
           "years_exp": 5,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3044,10 +3044,10 @@
           "position": "RB",
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 122,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3958,7 +3958,7 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "4881",
+        "96",
         "6813",
         "12512",
         "9493",
@@ -4022,6 +4022,7 @@
         "12474",
         "12489",
         "12507",
+        "12718",
         "13272",
         "13288",
         "13311",
@@ -4039,7 +4040,6 @@
         "8142",
         "8144",
         "9225",
-        "ATL",
         "MIN"
       ],
       "roster_id": 4,
@@ -4078,6 +4078,7 @@
         "12474": 0.0,
         "12489": 0.0,
         "12507": 0.0,
+        "12718": 0.0,
         "13272": 0.0,
         "13288": 0.0,
         "13311": 0.0,
@@ -4095,7 +4096,6 @@
         "8142": 0.0,
         "8144": 0.0,
         "9225": 0.0,
-        "ATL": 0.0,
         "MIN": 0.0
       }
     },
@@ -4311,7 +4311,7 @@
         "5844",
         "10213",
         "12711",
-        "0"
+        "CLE"
       ],
       "starters_points": [
         0.0,
@@ -4391,11 +4391,11 @@
       "matchup_id": 2,
       "starters": [
         "8183",
-        "7611",
         "8155",
-        "9500",
+        "9508",
         "9997",
         "7564",
+        "9500",
         "12517",
         "4037",
         "6650",
@@ -8151,6 +8151,52 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1792594987004,
+        "settings": null,
+        "leg": 7,
+        "draft_picks": [],
+        "creator": "1264983252985192448",
+        "transaction_id": "1418649834155450368",
+        "adds": {
+          "12718": 4
+        },
+        "drops": null,
+        "consenter_ids": [
+          4
+        ],
+        "roster_ids": [
+          4
+        ],
+        "status_updated": 1792594987004,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1792594929810,
+        "settings": null,
+        "leg": 7,
+        "draft_picks": [],
+        "creator": "1264983252985192448",
+        "transaction_id": "1418649594270580736",
+        "adds": null,
+        "drops": {
+          "ATL": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "roster_ids": [
+          4
+        ],
+        "status_updated": 1792594929810,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1792586053257,
         "settings": null,
         "leg": 7,
@@ -8674,17 +8720,6 @@
       "depth_chart_position": "LWR"
     },
     {
-      "player_id": "12457",
-      "name": "Jaydon Blue",
-      "position": "RB",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 189,
-      "years_exp": 1,
-      "depth_chart_position": null
-    },
-    {
       "player_id": "11579",
       "name": "Audric Estime",
       "position": "RB",
@@ -9067,17 +9102,6 @@
       "injury_status": null,
       "search_rank": 336,
       "years_exp": 3,
-      "depth_chart_position": null
-    },
-    {
-      "player_id": "13816",
-      "name": "Mark Gronowski",
-      "position": "QB",
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 341,
-      "years_exp": 0,
       "depth_chart_position": null
     },
     {
@@ -9697,17 +9721,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "11820",
-      "name": "Devin Culp",
-      "position": "TE",
-      "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 485,
-      "years_exp": 2,
-      "depth_chart_position": null
-    },
-    {
       "player_id": "6826",
       "name": "Cole Kmet",
       "position": "TE",
@@ -10069,6 +10082,39 @@
       "search_rank": 517,
       "years_exp": 2,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "11571",
+      "name": "Isaiah Davis",
+      "position": "RB",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 518,
+      "years_exp": 2,
+      "depth_chart_position": "RB"
+    },
+    {
+      "player_id": "8076",
+      "name": "Michael Bandy",
+      "position": "WR",
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 519,
+      "years_exp": 5,
+      "depth_chart_position": null
+    },
+    {
+      "player_id": "11377",
+      "name": "Tyrell Shavers",
+      "position": "WR",
+      "team": "BUF",
+      "status": "Active",
+      "injury_status": "PUP",
+      "search_rank": 519,
+      "years_exp": 3,
+      "depth_chart_position": "RWR"
     }
   ],
   "free_agents_by_position": {
@@ -10182,17 +10228,6 @@
         "search_rank": 325,
         "years_exp": 7,
         "depth_chart_position": "QB"
-      },
-      {
-        "player_id": "13816",
-        "name": "Mark Gronowski",
-        "position": "QB",
-        "team": "HOU",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 341,
-        "years_exp": 0,
-        "depth_chart_position": null
       },
       {
         "player_id": "13289",
@@ -10439,17 +10474,6 @@
         "depth_chart_position": "RB"
       },
       {
-        "player_id": "12457",
-        "name": "Jaydon Blue",
-        "position": "RB",
-        "team": "PHI",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 189,
-        "years_exp": 1,
-        "depth_chart_position": null
-      },
-      {
         "player_id": "11579",
         "name": "Audric Estime",
         "position": "RB",
@@ -10657,6 +10681,17 @@
         "search_rank": 512,
         "years_exp": 1,
         "depth_chart_position": null
+      },
+      {
+        "player_id": "11571",
+        "name": "Isaiah Davis",
+        "position": "RB",
+        "team": "NYJ",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 518,
+        "years_exp": 2,
+        "depth_chart_position": "RB"
       }
     ],
     "WR": [
@@ -11521,17 +11556,6 @@
         "depth_chart_position": "TE"
       },
       {
-        "player_id": "11820",
-        "name": "Devin Culp",
-        "position": "TE",
-        "team": "CLE",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 485,
-        "years_exp": 2,
-        "depth_chart_position": null
-      },
-      {
         "player_id": "6826",
         "name": "Cole Kmet",
         "position": "TE",
@@ -11540,6 +11564,17 @@
         "injury_status": null,
         "search_rank": 488,
         "years_exp": 6,
+        "depth_chart_position": "TE"
+      },
+      {
+        "player_id": "7842",
+        "name": "Luke Farrell",
+        "position": "TE",
+        "team": "SF",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 491,
+        "years_exp": 5,
         "depth_chart_position": "TE"
       }
     ]
