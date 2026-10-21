@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T07:32:02.567791+00:00",
+  "generated_at_utc": "2026-10-21T13:43:26.907240+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -80,11 +80,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 176,
-    "last_message_id": "1418531660420349952",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -130,13 +129,14 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1418612363422101504",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792566812189,
+    "last_message_time": 1792586053284,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
     "draft_id": "1328462469970038784",
@@ -165,9 +165,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -593,6 +593,19 @@
           "is_taxi": false
         },
         {
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 224,
+          "years_exp": 2,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "11604",
           "name": "Brock Bowers",
           "position": "TE",
@@ -796,8 +809,8 @@
           "injury_status": "Questionable",
           "search_rank": 41,
           "years_exp": 7,
-          "is_starter": false,
-          "is_reserve": true,
+          "is_starter": true,
+          "is_reserve": false,
           "is_taxi": false
         },
         {
@@ -848,8 +861,8 @@
           "injury_status": "IR",
           "search_rank": 91,
           "years_exp": 4,
-          "is_starter": true,
-          "is_reserve": false,
+          "is_starter": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -887,7 +900,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         }
@@ -961,7 +974,7 @@
           "injury_status": null,
           "search_rank": 209,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1080,7 +1093,7 @@
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
-          "is_taxi": false
+          "is_taxi": true
         },
         {
           "player_id": "13317",
@@ -1117,9 +1130,9 @@
           "injury_status": null,
           "search_rank": 153,
           "years_exp": 0,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
-          "is_taxi": true
+          "is_taxi": false
         },
         {
           "player_id": "13424",
@@ -3134,7 +3147,7 @@
           "injury_status": null,
           "search_rank": 170,
           "years_exp": 2,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3828,6 +3841,7 @@
         "10229",
         "10236",
         "11564",
+        "11565",
         "11604",
         "12491",
         "12514",
@@ -3857,7 +3871,7 @@
       "matchup_id": 4,
       "starters": [
         "11564",
-        "8408",
+        "5892",
         "8151",
         "5859",
         "6794",
@@ -3865,7 +3879,7 @@
         "11604",
         "1466",
         "2747",
-        "0"
+        "NYJ"
       ],
       "starters_points": [
         0.0,
@@ -3883,6 +3897,7 @@
         "10229": 0.0,
         "10236": 0.0,
         "11564": 0.0,
+        "11565": 0.0,
         "11604": 0.0,
         "12491": 0.0,
         "12514": 0.0,
@@ -3950,7 +3965,7 @@
         "7525",
         "13274",
         "8130",
-        "11834",
+        "13346",
         "3451",
         "SF"
       ],
@@ -4468,7 +4483,7 @@
         "10232",
         "3271",
         "13279",
-        "0",
+        "11792",
         "PIT"
       ],
       "starters_points": [
@@ -8131,7 +8146,31 @@
         "waiver_budget": []
       }
     ],
-    "7": []
+    "7": [
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1792586053257,
+        "settings": null,
+        "leg": 7,
+        "draft_picks": [],
+        "creator": "735298292942041088",
+        "transaction_id": "1418612363308912640",
+        "adds": {
+          "11565": 2
+        },
+        "drops": null,
+        "consenter_ids": [
+          2
+        ],
+        "roster_ids": [
+          2
+        ],
+        "status_updated": 1792586053257,
+        "waiver_budget": []
+      }
+    ]
   },
   "traded_picks": [
     {
@@ -8754,17 +8793,6 @@
       "search_rank": 222,
       "years_exp": 1,
       "depth_chart_position": "RB"
-    },
-    {
-      "player_id": "11565",
-      "name": "J.J. McCarthy",
-      "position": "QB",
-      "team": "NYG",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 224,
-      "years_exp": 2,
-      "depth_chart_position": "QB"
     },
     {
       "player_id": "12524",
@@ -10030,6 +10058,17 @@
       "search_rank": 516,
       "years_exp": 2,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "12079",
+      "name": "Treyton Welch",
+      "position": "TE",
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 517,
+      "years_exp": 2,
+      "depth_chart_position": "TE"
     }
   ],
   "free_agents_by_position": {
@@ -10076,17 +10115,6 @@
         "injury_status": null,
         "search_rank": 211,
         "years_exp": 13,
-        "depth_chart_position": "QB"
-      },
-      {
-        "player_id": "11565",
-        "name": "J.J. McCarthy",
-        "position": "QB",
-        "team": "NYG",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 224,
-        "years_exp": 2,
         "depth_chart_position": "QB"
       },
       {
