@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T22:17:32.998941+00:00",
+  "generated_at_utc": "2026-10-22T01:27:49.583012+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -611,7 +611,7 @@
           "position": "TE",
           "team": "LV",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 21,
           "years_exp": 2,
           "is_starter": true,
@@ -728,7 +728,7 @@
           "position": "TE",
           "team": "KC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 90,
           "years_exp": 13,
           "is_starter": true,
@@ -1422,7 +1422,7 @@
           "position": "QB",
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 288,
           "years_exp": 0,
           "is_starter": false,
@@ -1951,7 +1951,7 @@
           "position": "WR",
           "team": "SEA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 150,
           "years_exp": 4,
           "is_starter": false,
@@ -2142,7 +2142,7 @@
           "position": "RB",
           "team": "LV",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 123,
           "years_exp": 0,
           "is_starter": false,
@@ -3300,7 +3300,7 @@
           "position": "WR",
           "team": "DEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 42,
           "years_exp": 5,
           "is_starter": true,
@@ -3352,7 +3352,7 @@
           "position": "RB",
           "team": "ATL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 80,
           "years_exp": 4,
           "is_starter": false,
@@ -9539,7 +9539,7 @@
       "injury_status": null,
       "search_rank": 443,
       "years_exp": 8,
-      "depth_chart_position": "LWR"
+      "depth_chart_position": null
     },
     {
       "player_id": "2078",
@@ -11108,7 +11108,7 @@
         "injury_status": null,
         "search_rank": 443,
         "years_exp": 8,
-        "depth_chart_position": "LWR"
+        "depth_chart_position": null
       },
       {
         "player_id": "2078",
