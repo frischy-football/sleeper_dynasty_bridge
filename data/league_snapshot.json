@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T22:16:28.743248+00:00",
+  "generated_at_utc": "2026-10-23T01:27:03.852795+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -80,10 +80,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 176,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -129,14 +125,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1419070005080801280",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 176,
+    "sport": "nfl",
+    "last_message_id": "1419139680703635456",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792695163559,
+    "last_message_time": 1792711775521,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
     "draft_id": "1328462469970038784",
@@ -145,8 +145,6 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +168,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -598,7 +598,7 @@
           "position": "TE",
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 21,
           "years_exp": 2,
           "is_starter": true,
@@ -1205,23 +1205,10 @@
           "position": "WR",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 34,
           "years_exp": 5,
           "is_starter": true,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 669,
-          "years_exp": 4,
-          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1239,12 +1226,25 @@
           "is_taxi": false
         },
         {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 463,
+          "years_exp": 3,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "9493",
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 5,
           "years_exp": 3,
           "is_starter": true,
@@ -1886,7 +1886,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 94,
           "years_exp": 8,
           "is_starter": true,
@@ -1951,7 +1951,7 @@
           "position": "WR",
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 150,
           "years_exp": 4,
           "is_starter": false,
@@ -3750,7 +3750,7 @@
   ],
   "matchups_current_week": [
     {
-      "points": 0.0,
+      "points": 15.6,
       "players": [
         "11560",
         "11581",
@@ -3795,11 +3795,11 @@
         "KC"
       ],
       "starters_points": [
+        4.6,
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
+        11.0,
         0.0,
         0.0,
         0.0,
@@ -3807,7 +3807,7 @@
         0.0
       ],
       "players_points": {
-        "11560": 0.0,
+        "11560": 4.6,
         "11581": 0.0,
         "11646": 0.0,
         "1166": 0.0,
@@ -3817,14 +3817,14 @@
         "12495": 0.0,
         "12501": 0.0,
         "12506": 0.0,
-        "12519": 0.0,
-        "12529": 0.0,
+        "12519": 11.0,
+        "12529": 4.0,
         "13287": 0.0,
         "13293": 0.0,
         "13347": 0.0,
         "13349": 0.0,
         "13417": 0.0,
-        "3214": 0.0,
+        "3214": 2.6,
         "4943": 0.0,
         "5846": 0.0,
         "6083": 0.0,
@@ -3832,11 +3832,11 @@
         "8136": 0.0,
         "9509": 0.0,
         "KC": 0.0,
-        "NE": 0.0
+        "NE": 5.0
       }
     },
     {
-      "points": 0.0,
+      "points": 12.22,
       "players": [
         "10229",
         "11564",
@@ -3882,7 +3882,7 @@
         "NYJ"
       ],
       "starters_points": [
-        0.0,
+        12.22,
         0.0,
         0.0,
         0.0,
@@ -3895,16 +3895,16 @@
       ],
       "players_points": {
         "10229": 0.0,
-        "11564": 0.0,
+        "11564": 12.22,
         "11565": 0.0,
         "11604": 0.0,
-        "12491": 0.0,
+        "12491": 1.3,
         "12514": 0.0,
         "12534": 0.0,
         "13296": 0.0,
         "13320": 0.0,
         "13411": 0.0,
-        "13421": 0.0,
+        "13421": 4.6,
         "1466": 0.0,
         "1479": 0.0,
         "2449": 0.0,
@@ -3918,7 +3918,7 @@
         "8138": 0.0,
         "8151": 0.0,
         "8408": 0.0,
-        "9501": 0.0,
+        "9501": 0.9,
         "9754": 0.0,
         "NYJ": 0.0
       }
@@ -3948,8 +3948,8 @@
         "6797",
         "6813",
         "7525",
-        "8122",
         "8130",
+        "9482",
         "9493",
         "96",
         "SF"
@@ -3963,9 +3963,9 @@
         "12512",
         "9493",
         "7525",
-        "13274",
-        "8130",
         "13346",
+        "8130",
+        "13274",
         "3451",
         "SF"
       ],
@@ -3991,7 +3991,7 @@
         "12492": 0.0,
         "12508": 0.0,
         "12512": 0.0,
-        "12542": 0.0,
+        "12542": 2.6,
         "13274": 0.0,
         "13302": 0.0,
         "13317": 0.0,
@@ -4004,15 +4004,15 @@
         "6797": 0.0,
         "6813": 0.0,
         "7525": 0.0,
-        "8122": 0.0,
         "8130": 0.0,
+        "9482": 0.0,
         "9493": 0.0,
         "96": 0.0,
         "SF": 0.0
       }
     },
     {
-      "points": 0.0,
+      "points": 9.1,
       "players": [
         "10859",
         "11618",
@@ -4060,7 +4060,7 @@
       "starters_points": [
         0.0,
         0.0,
-        0.0,
+        9.1,
         0.0,
         0.0,
         0.0,
@@ -4088,7 +4088,7 @@
         "4199": 0.0,
         "5849": 0.0,
         "5967": 0.0,
-        "6790": 0.0,
+        "6790": 9.1,
         "6904": 0.0,
         "7002": 0.0,
         "7547": 0.0,
@@ -4358,7 +4358,7 @@
       }
     },
     {
-      "points": 0.0,
+      "points": 2.1,
       "players": [
         "11576",
         "11635",
@@ -4410,7 +4410,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        2.1,
         0.0,
         0.0,
         0.0
@@ -4422,7 +4422,7 @@
         "12497": 0.0,
         "12504": 0.0,
         "12509": 0.0,
-        "12517": 0.0,
+        "12517": 2.1,
         "12533": 0.0,
         "13286": 0.0,
         "13413": 0.0,
@@ -4446,7 +4446,7 @@
       }
     },
     {
-      "points": 0.0,
+      "points": 8.0,
       "players": [
         "10232",
         "10236",
@@ -4495,7 +4495,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        8.0,
         0.0,
         0.0
       ],
@@ -4514,7 +4514,7 @@
         "4034": 0.0,
         "7021": 0.0,
         "7526": 0.0,
-        "7611": 0.0,
+        "7611": 8.0,
         "8132": 0.0,
         "8148": 0.0,
         "8154": 0.0,
@@ -4526,7 +4526,7 @@
       }
     },
     {
-      "points": 0.0,
+      "points": 6.6,
       "players": [
         "11435",
         "11539",
@@ -4573,17 +4573,17 @@
         0.0,
         0.0,
         0.0,
+        1.6,
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0
+        5.0
       ],
       "players_points": {
         "11435": 0.0,
         "11539": 0.0,
         "11563": 0.0,
-        "11620": 0.0,
+        "11620": 1.6,
         "11647": 0.0,
         "13281": 0.0,
         "13345": 0.0,
@@ -4602,7 +4602,7 @@
         "9511": 0.0,
         "9756": 0.0,
         "BUF": 0.0,
-        "CHI": 0.0
+        "CHI": 5.0
       }
     }
   ],
@@ -8237,6 +8237,31 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1792711775494,
+        "settings": null,
+        "leg": 7,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1419139680590401536",
+        "adds": {
+          "9482": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": {
+          "8122": 3
+        },
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1792711775494,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1792695163529,
         "settings": null,
         "leg": 7,
@@ -9037,7 +9062,7 @@
       "position": "WR",
       "team": "PHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 203,
       "years_exp": 3,
       "depth_chart_position": "RWR"
@@ -9835,17 +9860,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "9482",
-      "name": "Michael Mayer",
-      "position": "TE",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 463,
-      "years_exp": 3,
-      "depth_chart_position": "TE"
-    },
-    {
       "player_id": "4066",
       "name": "Evan Engram",
       "position": "TE",
@@ -10350,6 +10364,17 @@
       "search_rank": 517,
       "years_exp": 2,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "11571",
+      "name": "Isaiah Davis",
+      "position": "RB",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 518,
+      "years_exp": 2,
+      "depth_chart_position": "RB"
     }
   ],
   "free_agents_by_position": {
@@ -10927,6 +10952,17 @@
         "search_rank": 512,
         "years_exp": 1,
         "depth_chart_position": null
+      },
+      {
+        "player_id": "11571",
+        "name": "Isaiah Davis",
+        "position": "RB",
+        "team": "NYJ",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 518,
+        "years_exp": 2,
+        "depth_chart_position": "RB"
       }
     ],
     "WR": [
@@ -11057,7 +11093,7 @@
         "position": "WR",
         "team": "PHI",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "search_rank": 203,
         "years_exp": 3,
         "depth_chart_position": "RWR"
@@ -11725,17 +11761,6 @@
         "depth_chart_position": "TE"
       },
       {
-        "player_id": "9482",
-        "name": "Michael Mayer",
-        "position": "TE",
-        "team": "LV",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 463,
-        "years_exp": 3,
-        "depth_chart_position": "TE"
-      },
-      {
         "player_id": "4066",
         "name": "Evan Engram",
         "position": "TE",
@@ -11810,6 +11835,17 @@
         "injury_status": null,
         "search_rank": 491,
         "years_exp": 5,
+        "depth_chart_position": "TE"
+      },
+      {
+        "player_id": "13630",
+        "name": "Evan Svoboda",
+        "position": "TE",
+        "team": "LAC",
+        "status": "Active",
+        "injury_status": "Out",
+        "search_rank": 493,
+        "years_exp": 0,
         "depth_chart_position": "TE"
       }
     ]
