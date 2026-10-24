@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-24T18:05:21.320888+00:00",
+  "generated_at_utc": "2026-10-24T20:43:02.051054+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -1153,7 +1153,7 @@
           "position": "QB",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 9,
           "years_exp": 8,
           "is_starter": false,
@@ -1205,7 +1205,7 @@
           "position": "WR",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 34,
           "years_exp": 5,
           "is_starter": true,
@@ -1886,7 +1886,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 94,
           "years_exp": 8,
           "is_starter": true,
@@ -2337,7 +2337,7 @@
           "position": "WR",
           "team": "HOU",
           "status": "Inactive",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "search_rank": 187,
           "years_exp": 3,
           "is_starter": false,
@@ -9295,7 +9295,7 @@
       "position": "WR",
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "search_rank": 203,
       "years_exp": 3,
       "depth_chart_position": "RWR"
@@ -9815,7 +9815,7 @@
       "injury_status": null,
       "search_rank": 397,
       "years_exp": 6,
-      "depth_chart_position": null
+      "depth_chart_position": "RWR"
     },
     {
       "player_id": "7527",
@@ -11337,7 +11337,7 @@
         "position": "WR",
         "team": "PHI",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "search_rank": 203,
         "years_exp": 3,
         "depth_chart_position": "RWR"
@@ -11505,7 +11505,7 @@
         "injury_status": null,
         "search_rank": 397,
         "years_exp": 6,
-        "depth_chart_position": null
+        "depth_chart_position": "RWR"
       },
       {
         "player_id": "6154",
