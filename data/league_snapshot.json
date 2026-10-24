@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-24T05:46:28.352023+00:00",
+  "generated_at_utc": "2026-10-24T10:51:30.806785+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -291,7 +291,7 @@
           "team": "MIA",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 452,
+          "search_rank": 451,
           "years_exp": 1,
           "is_starter": true,
           "is_reserve": false,
@@ -1232,7 +1232,7 @@
           "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 461,
+          "search_rank": 462,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -1514,7 +1514,7 @@
           "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 87,
+          "search_rank": 88,
           "years_exp": 7,
           "is_starter": false,
           "is_reserve": false,
@@ -1553,7 +1553,7 @@
           "team": "PHI",
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 26,
+          "search_rank": 28,
           "years_exp": 6,
           "is_starter": false,
           "is_reserve": true,
@@ -2182,7 +2182,7 @@
           "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 457,
+          "search_rank": 455,
           "years_exp": 9,
           "is_starter": false,
           "is_reserve": false,
@@ -3492,7 +3492,7 @@
           "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44,
+          "search_rank": 46,
           "years_exp": 2,
           "is_starter": false,
           "is_reserve": false,
@@ -9255,7 +9255,7 @@
       "team": "NYJ",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 211,
+      "search_rank": 212,
       "years_exp": 13,
       "depth_chart_position": "QB"
     },
@@ -9453,7 +9453,7 @@
       "team": "CLE",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 292,
+      "search_rank": 291,
       "years_exp": 9,
       "depth_chart_position": "QB"
     },
@@ -9931,6 +9931,17 @@
       "depth_chart_position": null
     },
     {
+      "player_id": "2078",
+      "name": "Odell Beckham Jr.",
+      "position": "WR",
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 442,
+      "years_exp": 12,
+      "depth_chart_position": null
+    },
+    {
       "player_id": "5781",
       "name": "Malik Turner",
       "position": "WR",
@@ -9939,17 +9950,6 @@
       "injury_status": null,
       "search_rank": 443,
       "years_exp": 8,
-      "depth_chart_position": null
-    },
-    {
-      "player_id": "2078",
-      "name": "Odell Beckham Jr.",
-      "position": "WR",
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 443,
-      "years_exp": 12,
       "depth_chart_position": null
     },
     {
@@ -10146,7 +10146,7 @@
       "team": "NO",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 483,
+      "search_rank": 482,
       "years_exp": 0,
       "depth_chart_position": "LWR"
     },
@@ -10600,7 +10600,7 @@
         "team": "NYJ",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 211,
+        "search_rank": 212,
         "years_exp": 13,
         "depth_chart_position": "QB"
       },
@@ -10633,7 +10633,7 @@
         "team": "CLE",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 292,
+        "search_rank": 291,
         "years_exp": 9,
         "depth_chart_position": "QB"
       },
@@ -11511,6 +11511,17 @@
         "depth_chart_position": null
       },
       {
+        "player_id": "2078",
+        "name": "Odell Beckham Jr.",
+        "position": "WR",
+        "team": "MIN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 442,
+        "years_exp": 12,
+        "depth_chart_position": null
+      },
+      {
         "player_id": "5781",
         "name": "Malik Turner",
         "position": "WR",
@@ -11519,17 +11530,6 @@
         "injury_status": null,
         "search_rank": 443,
         "years_exp": 8,
-        "depth_chart_position": null
-      },
-      {
-        "player_id": "2078",
-        "name": "Odell Beckham Jr.",
-        "position": "WR",
-        "team": "MIN",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 443,
-        "years_exp": 12,
         "depth_chart_position": null
       },
       {
@@ -11572,7 +11572,7 @@
         "team": "NO",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 483,
+        "search_rank": 482,
         "years_exp": 0,
         "depth_chart_position": "LWR"
       },
