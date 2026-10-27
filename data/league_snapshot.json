@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T14:51:54.090751+00:00",
+  "generated_at_utc": "2026-10-27T15:49:25.872651+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -27,7 +27,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 6,
+      "last_report": 7,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -80,11 +80,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1420803683054030848",
     "sport": "nfl",
     "shard": 176,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -130,19 +129,20 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1420835597160812544",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793108504597,
+    "last_message_time": 1793116113514,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
     "draft_id": "1328462469970038784",
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
-    "group_id": null,
+    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -166,8 +166,8 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -961,7 +961,7 @@
           "injury_status": null,
           "search_rank": 209,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1143,7 +1143,7 @@
           "injury_status": "Out",
           "search_rank": 9,
           "years_exp": 8,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1221,7 +1221,7 @@
           "injury_status": null,
           "search_rank": 104,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1260,7 +1260,7 @@
           "injury_status": null,
           "search_rank": 186,
           "years_exp": 21,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3975,10 +3975,10 @@
         "6813",
         "12512",
         "9493",
-        "7525",
+        "13274",
         "13346",
         "8130",
-        "13274",
+        "9480",
         "3451",
         "SF"
       ],
