@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T16:55:04.509815+00:00",
+  "generated_at_utc": "2026-10-28T17:50:09.709566+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -3222,7 +3222,7 @@
           "position": "WR",
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 61,
           "years_exp": 0,
           "is_starter": true,
@@ -9139,7 +9139,7 @@
       "position": "WR",
       "team": "MIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "search_rank": 453,
       "years_exp": 0,
       "depth_chart_position": null
@@ -9330,6 +9330,17 @@
       "search_rank": 485,
       "years_exp": 2,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "11820",
+      "name": "Devin Culp",
+      "position": "TE",
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 485,
+      "years_exp": 2,
+      "depth_chart_position": null
     },
     {
       "player_id": "12491",
@@ -9715,17 +9726,6 @@
       "search_rank": 519,
       "years_exp": 5,
       "depth_chart_position": null
-    },
-    {
-      "player_id": "11377",
-      "name": "Tyrell Shavers",
-      "position": "WR",
-      "team": "BUF",
-      "status": "Active",
-      "injury_status": "PUP",
-      "search_rank": 519,
-      "years_exp": 3,
-      "depth_chart_position": "RWR"
     }
   ],
   "free_agents_by_position": {
@@ -10697,7 +10697,7 @@
         "position": "WR",
         "team": "MIN",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "search_rank": 453,
         "years_exp": 0,
         "depth_chart_position": null
@@ -11167,6 +11167,17 @@
         "depth_chart_position": "TE"
       },
       {
+        "player_id": "11820",
+        "name": "Devin Culp",
+        "position": "TE",
+        "team": "MIN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 485,
+        "years_exp": 2,
+        "depth_chart_position": null
+      },
+      {
         "player_id": "7842",
         "name": "Luke Farrell",
         "position": "TE",
@@ -11175,17 +11186,6 @@
         "injury_status": null,
         "search_rank": 491,
         "years_exp": 5,
-        "depth_chart_position": "TE"
-      },
-      {
-        "player_id": "13630",
-        "name": "Evan Svoboda",
-        "position": "TE",
-        "team": "LAC",
-        "status": "Active",
-        "injury_status": "Out",
-        "search_rank": 493,
-        "years_exp": 0,
         "depth_chart_position": "TE"
       }
     ]
