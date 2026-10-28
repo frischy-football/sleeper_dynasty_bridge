@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T17:50:09.709566+00:00",
+  "generated_at_utc": "2026-10-28T18:51:44.122947+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -130,7 +130,6 @@
     "shard": 176,
     "sport": "nfl",
     "last_message_id": "1421203136344760320",
-    "draft_id": "1328462469970038784",
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "Firebird4",
     "last_author_id": "1155579787705110528",
@@ -140,13 +139,12 @@
     "last_message_time": 1793203743438,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
+    "draft_id": "1328462469970038784",
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +168,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -7783,12 +7783,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1421181726780092416",
         "adds": null,
-        "consenter_ids": [
-          9
-        ],
         "drops": {
           "3271": 9
         },
+        "consenter_ids": [
+          9
+        ],
         "roster_ids": [
           9
         ],
@@ -7808,12 +7808,12 @@
         "adds": {
           "1945": 3
         },
-        "consenter_ids": [
-          3
-        ],
         "drops": {
           "9482": 3
         },
+        "consenter_ids": [
+          3
+        ],
         "roster_ids": [
           3
         ],
