@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-29T16:56:47.254941+00:00",
+  "generated_at_utc": "2026-10-29T17:52:24.633009+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -80,10 +80,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 176,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -129,24 +125,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1421570496801038336",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 176,
+    "sport": "nfl",
+    "last_message_id": "1421585890299383808",
+    "last_author_avatar": "0f82a6122b5c82295ba06b1e66a4429b",
+    "last_author_display_name": "mattkojm",
+    "last_author_id": "1264778915197505536",
     "draft_id": "1328462469970038784",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793291327242,
+    "last_message_time": 1793294997337,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +166,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -1135,19 +1135,6 @@
           "is_taxi": false
         },
         {
-          "player_id": "3451",
-          "name": "Ka'imi Fairbairn",
-          "position": "K",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 128,
-          "years_exp": 10,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -1248,6 +1235,19 @@
           "search_rank": 104,
           "years_exp": 3,
           "is_starter": true,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 203,
+          "years_exp": 3,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3955,7 +3955,6 @@
         "13346",
         "13424",
         "1945",
-        "3451",
         "4881",
         "5927",
         "6797",
@@ -3964,6 +3963,7 @@
         "8130",
         "8135",
         "9480",
+        "9486",
         "9493",
         "GB"
       ],
@@ -4011,7 +4011,6 @@
         "13346": 0.0,
         "13424": 0.0,
         "1945": 0.0,
-        "3451": 0.0,
         "4881": 0.0,
         "5927": 0.0,
         "6797": 0.0,
@@ -4020,6 +4019,7 @@
         "8130": 0.0,
         "8135": 0.0,
         "9480": 0.0,
+        "9486": 0.0,
         "9493": 0.0,
         "GB": 0.0
       }
@@ -7791,6 +7791,81 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1793294549767,
+        "settings": null,
+        "leg": 8,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1421584013050531840",
+        "adds": {
+          "12457": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": {
+          "7561": 3
+        },
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1793294549767,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1793294374513,
+        "settings": null,
+        "leg": 8,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1421583277982040064",
+        "adds": {
+          "9486": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": {
+          "3451": 3
+        },
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1793294374513,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1793293024566,
+        "settings": null,
+        "leg": 8,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1421577615898071040",
+        "adds": {
+          "7561": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": {
+          "12457": 3
+        },
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1793293024566,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1793291327211,
         "settings": null,
         "leg": 8,
@@ -7800,12 +7875,12 @@
         "adds": {
           "12457": 3
         },
-        "drops": {
-          "8161": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "8161": 3
+        },
         "roster_ids": [
           3
         ],
@@ -7825,10 +7900,10 @@
         "adds": {
           "6130": 6
         },
-        "drops": null,
         "consenter_ids": [
           6
         ],
+        "drops": null,
         "roster_ids": [
           6
         ],
@@ -7848,10 +7923,10 @@
         "adds": {
           "4137": 6
         },
-        "drops": null,
         "consenter_ids": [
           6
         ],
+        "drops": null,
         "roster_ids": [
           6
         ],
@@ -7869,12 +7944,12 @@
         "creator": "1155579787705110528",
         "transaction_id": "1421478779175403520",
         "adds": null,
-        "drops": {
-          "8129": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "8129": 6
+        },
         "roster_ids": [
           6
         ],
@@ -7892,12 +7967,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1421181726780092416",
         "adds": null,
-        "drops": {
-          "3271": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "3271": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7917,12 +7992,12 @@
         "adds": {
           "1945": 3
         },
-        "drops": {
-          "9482": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "9482": 3
+        },
         "roster_ids": [
           3
         ],
@@ -8515,17 +8590,6 @@
       "search_rank": 201,
       "years_exp": 0,
       "depth_chart_position": "LWR"
-    },
-    {
-      "player_id": "9486",
-      "name": "Dontayvion Wicks",
-      "position": "WR",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "search_rank": 203,
-      "years_exp": 3,
-      "depth_chart_position": "RWR"
     },
     {
       "player_id": "1373",
@@ -9835,6 +9899,17 @@
       "search_rank": 518,
       "years_exp": 2,
       "depth_chart_position": "RB"
+    },
+    {
+      "player_id": "8076",
+      "name": "Michael Bandy",
+      "position": "WR",
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 519,
+      "years_exp": 5,
+      "depth_chart_position": null
     }
   ],
   "free_agents_by_position": {
@@ -10570,17 +10645,6 @@
         "depth_chart_position": "LWR"
       },
       {
-        "player_id": "9486",
-        "name": "Dontayvion Wicks",
-        "position": "WR",
-        "team": "PHI",
-        "status": "Active",
-        "injury_status": "Questionable",
-        "search_rank": 203,
-        "years_exp": 3,
-        "depth_chart_position": "RWR"
-      },
-      {
         "player_id": "11802",
         "name": "Tejhaun Palmer",
         "position": "WR",
@@ -10865,6 +10929,17 @@
         "search_rank": 490,
         "years_exp": 3,
         "depth_chart_position": "SWR"
+      },
+      {
+        "player_id": "11895",
+        "name": "Mason Tipton",
+        "position": "WR",
+        "team": "NO",
+        "status": "Active",
+        "injury_status": "PUP",
+        "search_rank": 490,
+        "years_exp": 2,
+        "depth_chart_position": "RWR"
       }
     ],
     "TE": [
