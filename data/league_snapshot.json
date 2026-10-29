@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-29T15:57:23.870192+00:00",
+  "generated_at_utc": "2026-10-29T16:56:47.254941+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -129,19 +129,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1421479769077227520",
+    "last_message_id": "1421570496801038336",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
-    "draft_id": "1328462469970038784",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793269696067,
+    "last_message_time": 1793291327242,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -966,6 +966,19 @@
           "is_taxi": false
         },
         {
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 189,
+          "years_exp": 1,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "12481",
           "name": "Cam Skattebo",
           "position": "RB",
@@ -1220,19 +1233,6 @@
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 679,
-          "years_exp": 4,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 122,
           "years_exp": 4,
           "is_starter": false,
           "is_reserve": false,
@@ -3942,6 +3942,7 @@
         "10219",
         "11655",
         "11834",
+        "12457",
         "12481",
         "12484",
         "12487",
@@ -3962,7 +3963,6 @@
         "7525",
         "8130",
         "8135",
-        "8161",
         "9480",
         "9493",
         "GB"
@@ -3998,6 +3998,7 @@
         "10219": 0.0,
         "11655": 0.0,
         "11834": 0.0,
+        "12457": 0.0,
         "12481": 0.0,
         "12484": 0.0,
         "12487": 0.0,
@@ -4018,7 +4019,6 @@
         "7525": 0.0,
         "8130": 0.0,
         "8135": 0.0,
-        "8161": 0.0,
         "9480": 0.0,
         "9493": 0.0,
         "GB": 0.0
@@ -7791,6 +7791,31 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1793291327211,
+        "settings": null,
+        "leg": 8,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1421570496671014912",
+        "adds": {
+          "12457": 3
+        },
+        "drops": {
+          "8161": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1793291327211,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1793269696040,
         "settings": null,
         "leg": 8,
@@ -8162,6 +8187,17 @@
   ],
   "free_agent_pool_compact": [
     {
+      "player_id": "8161",
+      "name": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 122,
+      "years_exp": 4,
+      "depth_chart_position": "QB"
+    },
+    {
       "player_id": "11603",
       "name": "AJ Barner",
       "position": "TE",
@@ -8413,17 +8449,6 @@
       "search_rank": 187,
       "years_exp": 21,
       "depth_chart_position": "QB"
-    },
-    {
-      "player_id": "12457",
-      "name": "Jaydon Blue",
-      "position": "RB",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 189,
-      "years_exp": 1,
-      "depth_chart_position": "RB"
     },
     {
       "player_id": "11579",
@@ -9815,6 +9840,17 @@
   "free_agents_by_position": {
     "QB": [
       {
+        "player_id": "8161",
+        "name": "Malik Willis",
+        "position": "QB",
+        "team": "MIA",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 122,
+        "years_exp": 4,
+        "depth_chart_position": "QB"
+      },
+      {
         "player_id": "5870",
         "name": "Daniel Jones",
         "position": "QB",
@@ -10144,17 +10180,6 @@
         "injury_status": null,
         "search_rank": 180,
         "years_exp": 3,
-        "depth_chart_position": "RB"
-      },
-      {
-        "player_id": "12457",
-        "name": "Jaydon Blue",
-        "position": "RB",
-        "team": "PHI",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 189,
-        "years_exp": 1,
         "depth_chart_position": "RB"
       },
       {
