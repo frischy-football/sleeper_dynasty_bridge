@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-29T03:50:18.882787+00:00",
+  "generated_at_utc": "2026-10-29T04:50:58.335646+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -912,12 +912,12 @@
       "display_name": "mattkojm",
       "team_name": "Yards After Concussion ",
       "settings": {
-        "fpts": 918,
+        "fpts": 919,
         "fpts_against": 972,
         "fpts_against_decimal": 72,
         "fpts_decimal": 48,
         "losses": 4,
-        "ppts": 1069,
+        "ppts": 1070,
         "ppts_decimal": 2,
         "ties": 0,
         "total_moves": 0,
@@ -3112,7 +3112,7 @@
       "team_name": "\ud83c\udff9zeus\u2019s law\u2694\ufe0f",
       "settings": {
         "fpts": 901,
-        "fpts_against": 905,
+        "fpts_against": 906,
         "fpts_against_decimal": 84,
         "fpts_decimal": 74,
         "losses": 4,
