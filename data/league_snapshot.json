@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T05:43:44.397184+00:00",
+  "generated_at_utc": "2026-10-31T06:53:23.461552+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -291,7 +291,7 @@
           "team": "MIA",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 451,
+          "search_rank": 449,
           "years_exp": 1,
           "is_starter": true,
           "is_reserve": false,
@@ -859,7 +859,7 @@
           "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 19,
+          "search_rank": 17,
           "years_exp": 4,
           "is_starter": true,
           "is_reserve": false,
@@ -933,7 +933,7 @@
           "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 127,
+          "search_rank": 125,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -1540,7 +1540,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 46,
+          "search_rank": 44,
           "years_exp": 6,
           "is_starter": true,
           "is_reserve": false,
@@ -1553,7 +1553,7 @@
           "team": "PHI",
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 28,
+          "search_rank": 26,
           "years_exp": 6,
           "is_starter": false,
           "is_reserve": true,
@@ -2516,7 +2516,7 @@
           "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 199,
+          "search_rank": 201,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -3236,7 +3236,7 @@
           "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 109,
+          "search_rank": 107,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -3262,7 +3262,7 @@
           "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 91,
+          "search_rank": 89,
           "years_exp": 0,
           "is_starter": true,
           "is_reserve": false,
@@ -3518,7 +3518,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 64,
+          "search_rank": 65,
           "years_exp": 2,
           "is_starter": true,
           "is_reserve": false,
@@ -9455,7 +9455,7 @@
       "team": "CIN",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 447,
+      "search_rank": 449,
       "years_exp": 8,
       "depth_chart_position": "TE"
     },
@@ -9757,17 +9757,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "12510",
-      "name": "Jalen Milroe",
-      "position": "QB",
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 495,
-      "years_exp": 1,
-      "depth_chart_position": "QB"
-    },
-    {
       "player_id": "11911",
       "name": "Jeshaun Jones",
       "position": "WR",
@@ -9777,6 +9766,17 @@
       "search_rank": 496,
       "years_exp": 2,
       "depth_chart_position": null
+    },
+    {
+      "player_id": "12510",
+      "name": "Jalen Milroe",
+      "position": "QB",
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 497,
+      "years_exp": 1,
+      "depth_chart_position": "QB"
     },
     {
       "player_id": "13348",
@@ -9955,17 +9955,6 @@
       "depth_chart_position": "RWR"
     },
     {
-      "player_id": "12544",
-      "name": "LeQuint Allen Jr.",
-      "position": "RB",
-      "team": "JAX",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 511,
-      "years_exp": 1,
-      "depth_chart_position": "RB"
-    },
-    {
       "player_id": "12969",
       "name": "Lan Larison",
       "position": "RB",
@@ -9986,6 +9975,17 @@
       "search_rank": 512,
       "years_exp": 1,
       "depth_chart_position": null
+    },
+    {
+      "player_id": "12544",
+      "name": "LeQuint Allen Jr.",
+      "position": "RB",
+      "team": "JAX",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 513,
+      "years_exp": 1,
+      "depth_chart_position": "RB"
     },
     {
       "player_id": "13434",
@@ -10294,7 +10294,7 @@
         "team": "SEA",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 495,
+        "search_rank": 497,
         "years_exp": 1,
         "depth_chart_position": "QB"
       },
@@ -10653,17 +10653,6 @@
         "depth_chart_position": "RB"
       },
       {
-        "player_id": "12544",
-        "name": "LeQuint Allen Jr.",
-        "position": "RB",
-        "team": "JAX",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 511,
-        "years_exp": 1,
-        "depth_chart_position": "RB"
-      },
-      {
         "player_id": "12969",
         "name": "Lan Larison",
         "position": "RB",
@@ -10673,6 +10662,17 @@
         "search_rank": 512,
         "years_exp": 1,
         "depth_chart_position": null
+      },
+      {
+        "player_id": "12544",
+        "name": "LeQuint Allen Jr.",
+        "position": "RB",
+        "team": "JAX",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 513,
+        "years_exp": 1,
+        "depth_chart_position": "RB"
       },
       {
         "player_id": "11571",
@@ -11444,7 +11444,7 @@
         "team": "CIN",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 447,
+        "search_rank": 449,
         "years_exp": 8,
         "depth_chart_position": "TE"
       },
