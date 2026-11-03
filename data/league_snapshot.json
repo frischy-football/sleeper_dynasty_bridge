@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-03T20:51:57.524381+00:00",
+  "generated_at_utc": "2026-11-03T21:49:20.765654+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -355,7 +355,7 @@
           "position": "RB",
           "team": "ARI",
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 15,
           "years_exp": 0,
           "is_starter": false,
