@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-03T15:55:41.601926+00:00",
+  "generated_at_utc": "2026-11-03T16:59:18.121009+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -27,7 +27,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -80,6 +80,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1423389091319316480",
+    "shard": 176,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -125,27 +130,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 176,
-    "last_message_id": "1423368928138137600",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793720106686,
+    "last_message_time": 1793724913963,
     "last_pinned_message_id": "1418303215979524096",
-    "last_read_id": null,
     "draft_id": "1328462469970038784",
+    "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -169,6 +165,10 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
@@ -2748,7 +2748,7 @@
           "injury_status": null,
           "search_rank": 135,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2891,7 +2891,7 @@
           "injury_status": null,
           "search_rank": 88,
           "years_exp": 9,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2904,7 +2904,7 @@
           "injury_status": null,
           "search_rank": 39,
           "years_exp": 9,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2982,7 +2982,7 @@
           "injury_status": null,
           "search_rank": 89,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3008,7 +3008,7 @@
           "injury_status": null,
           "search_rank": 55,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3034,7 +3034,7 @@
           "injury_status": null,
           "search_rank": 111,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -4390,8 +4390,8 @@
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "4046",
-        "8155",
+        "8183",
+        "8132",
         "9753",
         "9997",
         "7564",
