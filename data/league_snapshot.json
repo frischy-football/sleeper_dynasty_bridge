@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-04T20:55:48.372577+00:00",
+  "generated_at_utc": "2026-11-04T21:52:12.392921+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -559,7 +559,7 @@
           "position": "WR",
           "team": "KC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 29,
           "years_exp": 3,
           "is_starter": true,
@@ -715,7 +715,7 @@
           "position": "TE",
           "team": "KC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 89,
           "years_exp": 13,
           "is_starter": false,
@@ -793,7 +793,7 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 41,
           "years_exp": 7,
           "is_starter": false,
@@ -1578,7 +1578,7 @@
           "position": "WR",
           "team": "DET",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 7,
           "years_exp": 5,
           "is_starter": true,
@@ -8068,7 +8068,7 @@
       "position": "TE",
       "team": "NYG",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "search_rank": 144,
       "years_exp": 2,
       "depth_chart_position": "TE"
@@ -8101,7 +8101,7 @@
       "position": "RB",
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 157,
       "years_exp": 0,
       "depth_chart_position": "RB"
@@ -8178,7 +8178,7 @@
       "position": "RB",
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 174,
       "years_exp": 2,
       "depth_chart_position": "RB"
@@ -8555,6 +8555,17 @@
       "injury_status": null,
       "search_rank": 281,
       "years_exp": 10,
+      "depth_chart_position": null
+    },
+    {
+      "player_id": "7599",
+      "name": "Jermar Jefferson",
+      "position": "RB",
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 283,
+      "years_exp": 5,
       "depth_chart_position": null
     },
     {
@@ -9218,6 +9229,17 @@
       "depth_chart_position": "TE"
     },
     {
+      "player_id": "6957",
+      "name": "James Proche II",
+      "position": "WR",
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 472,
+      "years_exp": 6,
+      "depth_chart_position": null
+    },
+    {
       "player_id": "9229",
       "name": "Anthony Richardson Sr.",
       "position": "QB",
@@ -9432,7 +9454,7 @@
       "position": "WR",
       "team": "KC",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 498,
       "years_exp": 3,
       "depth_chart_position": "SWR"
@@ -9619,7 +9641,7 @@
       "position": "TE",
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 514,
       "years_exp": 0,
       "depth_chart_position": "TE"
@@ -9634,28 +9656,6 @@
       "search_rank": 515,
       "years_exp": 0,
       "depth_chart_position": "QB"
-    },
-    {
-      "player_id": "12389",
-      "name": "Hayden Rucci",
-      "position": "TE",
-      "team": "LAC",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 516,
-      "years_exp": 2,
-      "depth_chart_position": "TE"
-    },
-    {
-      "player_id": "12079",
-      "name": "Treyton Welch",
-      "position": "TE",
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 517,
-      "years_exp": 2,
-      "depth_chart_position": "TE"
     }
   ],
   "free_agents_by_position": {
@@ -9943,7 +9943,7 @@
         "position": "RB",
         "team": "MIA",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "search_rank": 157,
         "years_exp": 0,
         "depth_chart_position": "RB"
@@ -9976,7 +9976,7 @@
         "position": "RB",
         "team": "MIA",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "search_rank": 174,
         "years_exp": 2,
         "depth_chart_position": "RB"
@@ -10067,6 +10067,17 @@
         "injury_status": null,
         "search_rank": 270,
         "years_exp": 3,
+        "depth_chart_position": null
+      },
+      {
+        "player_id": "7599",
+        "name": "Jermar Jefferson",
+        "position": "RB",
+        "team": "ARI",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 283,
+        "years_exp": 5,
         "depth_chart_position": null
       },
       {
@@ -10677,15 +10688,15 @@
         "depth_chart_position": "SWR"
       },
       {
-        "player_id": "13420",
-        "name": "Bryce Lance",
+        "player_id": "6957",
+        "name": "James Proche II",
         "position": "WR",
-        "team": "NO",
+        "team": "ARI",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 485,
-        "years_exp": 0,
-        "depth_chart_position": "LWR"
+        "search_rank": 472,
+        "years_exp": 6,
+        "depth_chart_position": null
       }
     ],
     "TE": [
@@ -10728,7 +10739,7 @@
         "position": "TE",
         "team": "NYG",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "search_rank": 144,
         "years_exp": 2,
         "depth_chart_position": "TE"
