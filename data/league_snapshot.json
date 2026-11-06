@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-05T23:47:31.837161+00:00",
+  "generated_at_utc": "2026-11-06T01:10:00.571865+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -1208,7 +1208,7 @@
           "injury_status": "Questionable",
           "search_rank": 33,
           "years_exp": 5,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1260,7 +1260,7 @@
           "injury_status": null,
           "search_rank": 489,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2450,7 +2450,7 @@
           "position": "RB",
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 44,
           "years_exp": 1,
           "is_starter": true,
@@ -3949,7 +3949,7 @@
         "12512",
         "6813",
         "9493",
-        "7525",
+        "9501",
         "13346",
         "8130",
         "12481",
@@ -8418,7 +8418,7 @@
       "position": "WR",
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "search_rank": 201,
       "years_exp": 0,
       "depth_chart_position": "LWR"
@@ -9551,7 +9551,7 @@
       "position": "WR",
       "team": "KC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "search_rank": 498,
       "years_exp": 3,
       "depth_chart_position": "SWR"
@@ -10471,7 +10471,7 @@
         "position": "WR",
         "team": "BAL",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "search_rank": 201,
         "years_exp": 0,
         "depth_chart_position": "LWR"
