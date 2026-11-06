@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T03:55:58.245417+00:00",
+  "generated_at_utc": "2026-11-06T04:59:31.816870+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -84,6 +84,7 @@
     "season_type": "regular",
     "season": "2026",
     "shard": 176,
+    "last_message_id": "1424286423397224448",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -129,24 +130,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1424191674539679744",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793916264714,
+    "last_message_time": 1793938854602,
     "last_pinned_message_id": "1418303215979524096",
     "last_read_id": null,
-    "draft_id": "1328462469970038784",
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -626,19 +626,6 @@
           "status": "Active",
           "injury_status": null,
           "search_rank": 39,
-          "years_exp": 1,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "12530",
-          "name": "Travis Hunter",
-          "position": "DB",
-          "team": "JAX",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 103,
           "years_exp": 1,
           "is_starter": false,
           "is_reserve": false,
@@ -3969,7 +3956,7 @@
         0.0
       ],
       "players_points": {
-        "10219": 11.1,
+        "10219": 11.2,
         "11655": 0.0,
         "11834": 0.0,
         "12481": 0.0,
@@ -4173,7 +4160,7 @@
       }
     },
     {
-      "points": 19.48,
+      "points": 19.68,
       "players": [
         "11533",
         "11583",
@@ -4220,7 +4207,7 @@
       "starters_points": [
         0.0,
         0.0,
-        5.38,
+        5.58,
         0.0,
         0.0,
         14.1,
@@ -4240,11 +4227,11 @@
         "12535": 0.0,
         "13276": 0.0,
         "13305": 0.0,
-        "3198": 5.38,
+        "3198": 5.58,
         "4137": 0.0,
         "4217": 0.0,
         "4866": 0.0,
-        "5947": 12.6,
+        "5947": 10.5,
         "6130": 0.0,
         "6770": 0.0,
         "6801": 0.0,
@@ -7656,6 +7643,29 @@
       }
     ],
     "9": [
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1793938854564,
+        "settings": null,
+        "leg": 9,
+        "draft_picks": [],
+        "creator": "735298292942041088",
+        "transaction_id": "1424286423237795840",
+        "adds": null,
+        "drops": {
+          "12530": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "roster_ids": [
+          2
+        ],
+        "status_updated": 1793938854564,
+        "waiver_budget": []
+      },
       {
         "status": "complete",
         "type": "free_agent",
