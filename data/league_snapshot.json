@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T13:06:15.279073+00:00",
+  "generated_at_utc": "2026-11-06T14:19:12.724900+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -3326,7 +3326,7 @@
           "position": "RB",
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 80,
           "years_exp": 4,
           "is_starter": false,
