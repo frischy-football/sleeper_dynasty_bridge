@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T20:41:56.485973+00:00",
+  "generated_at_utc": "2026-11-07T21:41:23.476126+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -127,9 +127,9 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 176,
-    "last_message_id": "1424876900110663680",
+    "sport": "nfl",
+    "last_message_id": "1424903837746999296",
     "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -137,11 +137,11 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794079635221,
+    "last_message_time": 1794086057654,
     "last_pinned_message_id": "1424306807299428352",
-    "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
+    "last_read_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
@@ -1873,7 +1873,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Inactive",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "search_rank": 697,
           "years_exp": 9,
           "is_starter": false,
@@ -3282,6 +3282,19 @@
           "is_taxi": true
         },
         {
+          "player_id": "3286",
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "search_rank": 679,
+          "years_exp": 10,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "4034",
           "name": "Christian McCaffrey",
           "position": "RB",
@@ -3352,11 +3365,11 @@
           "position": "RB",
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 80,
           "years_exp": 4,
           "is_starter": false,
-          "is_reserve": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -3529,8 +3542,8 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 62,
           "years_exp": 0,
           "is_starter": false,
@@ -4476,6 +4489,7 @@
         "13294",
         "13330",
         "13380",
+        "3286",
         "4034",
         "7021",
         "7526",
@@ -4528,6 +4542,7 @@
         "13294": 0.0,
         "13330": 0.0,
         "13380": 0.0,
+        "3286": 0.0,
         "4034": 0.0,
         "7021": 0.0,
         "7526": 0.0,
@@ -7688,6 +7703,29 @@
       }
     ],
     "9": [
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1794086057619,
+        "settings": null,
+        "leg": 9,
+        "draft_picks": [],
+        "creator": "890612043944792064",
+        "transaction_id": "1424903837604474880",
+        "adds": {
+          "3286": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "drops": null,
+        "roster_ids": [
+          9
+        ],
+        "status_updated": 1794086057619,
+        "waiver_budget": []
+      },
       {
         "status": "complete",
         "type": "free_agent",
