@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T06:59:57.985184+00:00",
+  "generated_at_utc": "2026-11-08T08:04:38.514096+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -1128,7 +1128,7 @@
           "team": "BAL",
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 8,
+          "search_rank": 10,
           "years_exp": 8,
           "is_starter": false,
           "is_reserve": false,
@@ -1553,7 +1553,7 @@
           "team": "PHI",
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 27,
+          "search_rank": 28,
           "years_exp": 6,
           "is_starter": false,
           "is_reserve": true,
@@ -2054,7 +2054,7 @@
           "injury_status": null,
           "search_rank": 89,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2132,7 +2132,7 @@
           "injury_status": null,
           "search_rank": 12,
           "years_exp": 1,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2210,7 +2210,7 @@
           "injury_status": null,
           "search_rank": 80,
           "years_exp": 9,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2249,7 +2249,7 @@
           "injury_status": null,
           "search_rank": 660,
           "years_exp": 7,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2301,7 +2301,7 @@
           "injury_status": null,
           "search_rank": 67,
           "years_exp": 5,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2314,7 +2314,7 @@
           "injury_status": null,
           "search_rank": 155,
           "years_exp": 5,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2366,7 +2366,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2379,7 +2379,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         }
@@ -3505,7 +3505,7 @@
           "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44,
+          "search_rank": 46,
           "years_exp": 2,
           "is_starter": false,
           "is_reserve": false,
@@ -4250,7 +4250,7 @@
       "matchup_id": 3,
       "starters": [
         "6770",
-        "12527",
+        "6130",
         "3198",
         "9488",
         "6801",
@@ -9731,6 +9731,17 @@
       "depth_chart_position": "QB"
     },
     {
+      "player_id": "12511",
+      "name": "Will Howard",
+      "position": "QB",
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": "Out",
+      "search_rank": 497,
+      "years_exp": 1,
+      "depth_chart_position": "QB"
+    },
+    {
       "player_id": "13348",
       "name": "J'Mari Taylor",
       "position": "RB",
@@ -9762,17 +9773,6 @@
       "search_rank": 498,
       "years_exp": 3,
       "depth_chart_position": "SWR"
-    },
-    {
-      "player_id": "12511",
-      "name": "Will Howard",
-      "position": "QB",
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": "Out",
-      "search_rank": 499,
-      "years_exp": 1,
-      "depth_chart_position": "QB"
     },
     {
       "player_id": "12788",
@@ -10180,7 +10180,7 @@
         "team": "PIT",
         "status": "Active",
         "injury_status": "Out",
-        "search_rank": 499,
+        "search_rank": 497,
         "years_exp": 1,
         "depth_chart_position": "QB"
       },
