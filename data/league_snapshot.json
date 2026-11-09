@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-09T13:14:59.239327+00:00",
+  "generated_at_utc": "2026-11-09T14:25:05.278090+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -8418,7 +8418,7 @@
       "position": "QB",
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 122,
       "years_exp": 4,
       "depth_chart_position": "QB"
@@ -10071,7 +10071,7 @@
         "position": "QB",
         "team": "MIA",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "search_rank": 122,
         "years_exp": 4,
         "depth_chart_position": "QB"
