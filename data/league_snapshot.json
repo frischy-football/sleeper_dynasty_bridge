@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-09T23:44:18.178387+00:00",
+  "generated_at_utc": "2026-11-10T01:03:24.559306+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -8704,7 +8704,7 @@
       "position": "WR",
       "team": "NYG",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "search_rank": 194,
       "years_exp": 6,
       "depth_chart_position": "SWR"
@@ -9243,7 +9243,7 @@
       "position": "WR",
       "team": "BUF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "search_rank": 390,
       "years_exp": 0,
       "depth_chart_position": "SWR"
@@ -10757,7 +10757,7 @@
         "position": "WR",
         "team": "NYG",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "search_rank": 194,
         "years_exp": 6,
         "depth_chart_position": "SWR"
@@ -10933,7 +10933,7 @@
         "position": "WR",
         "team": "BUF",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "search_rank": 390,
         "years_exp": 0,
         "depth_chart_position": "SWR"
