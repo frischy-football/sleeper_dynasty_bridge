@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T15:53:05.321758+00:00",
+  "generated_at_utc": "2026-11-10T16:56:26.675850+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -27,7 +27,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 8,
+      "last_report": 9,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -127,21 +127,26 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 176,
-    "last_message_id": "1425905865554145280",
+    "sport": "nfl",
+    "last_message_id": "1425924398765862912",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794324959699,
+    "last_message_time": 1794329378362,
     "last_pinned_message_id": "1424306807299428352",
-    "draft_id": "1328462469970038784",
     "last_read_id": null,
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -974,7 +974,7 @@
           "injury_status": null,
           "search_rank": 209,
           "years_exp": 2,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2622,8 +2622,8 @@
           "injury_status": "Out",
           "search_rank": 20,
           "years_exp": 7,
-          "is_starter": true,
-          "is_reserve": false,
+          "is_starter": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
@@ -2687,8 +2687,8 @@
           "injury_status": "IR",
           "search_rank": 34,
           "years_exp": 5,
-          "is_starter": false,
-          "is_reserve": true,
+          "is_starter": true,
+          "is_reserve": false,
           "is_taxi": false
         },
         {
@@ -3960,7 +3960,7 @@
         "3257",
         "6813",
         "12481",
-        "0",
+        "11834",
         "9501",
         "13346",
         "8130",
@@ -4312,7 +4312,7 @@
         "11632",
         "7569",
         "12518",
-        "0",
+        "7543",
         "10955",
         "JAX"
       ],
