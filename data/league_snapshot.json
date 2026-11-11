@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T11:03:19.697820+00:00",
+  "generated_at_utc": "2026-11-11T11:58:29.696618+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -974,7 +974,7 @@
           "injury_status": null,
           "search_rank": 209,
           "years_exp": 2,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1052,9 +1052,9 @@
           "injury_status": null,
           "search_rank": 194,
           "years_exp": 0,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
-          "is_taxi": true
+          "is_taxi": false
         },
         {
           "player_id": "13297",
@@ -1067,7 +1067,7 @@
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
-          "is_taxi": false
+          "is_taxi": true
         },
         {
           "player_id": "13317",
@@ -1273,7 +1273,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         }
@@ -3987,13 +3987,13 @@
         "3257",
         "6813",
         "12481",
-        "11834",
+        "13274",
         "9501",
         "13346",
         "8130",
         "12512",
         "7042",
-        "0"
+        "BAL"
       ],
       "starters_points": [
         0.0,
