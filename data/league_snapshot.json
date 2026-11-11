@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T01:06:11.799856+00:00",
+  "generated_at_utc": "2026-11-11T02:05:35.853013+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -7360,7 +7360,7 @@
       "injury_status": null,
       "search_rank": 189,
       "years_exp": 1,
-      "depth_chart_position": "RB"
+      "depth_chart_position": null
     },
     {
       "player_id": "11569",
@@ -7877,7 +7877,7 @@
       "injury_status": null,
       "search_rank": 371,
       "years_exp": 10,
-      "depth_chart_position": "TE"
+      "depth_chart_position": null
     },
     {
       "player_id": "13343",
@@ -8031,7 +8031,7 @@
       "injury_status": null,
       "search_rank": 405,
       "years_exp": 7,
-      "depth_chart_position": "LWR"
+      "depth_chart_position": null
     },
     {
       "player_id": "13760",
@@ -8174,7 +8174,7 @@
       "injury_status": null,
       "search_rank": 443,
       "years_exp": 12,
-      "depth_chart_position": "RWR"
+      "depth_chart_position": null
     },
     {
       "player_id": "8917",
@@ -8482,7 +8482,7 @@
       "injury_status": "Out",
       "search_rank": 493,
       "years_exp": 0,
-      "depth_chart_position": "TE"
+      "depth_chart_position": null
     },
     {
       "player_id": "5773",
@@ -9092,7 +9092,7 @@
         "injury_status": null,
         "search_rank": 189,
         "years_exp": 1,
-        "depth_chart_position": "RB"
+        "depth_chart_position": null
       },
       {
         "player_id": "11569",
@@ -9655,7 +9655,7 @@
         "injury_status": null,
         "search_rank": 405,
         "years_exp": 7,
-        "depth_chart_position": "LWR"
+        "depth_chart_position": null
       },
       {
         "player_id": "13760",
@@ -9721,7 +9721,7 @@
         "injury_status": null,
         "search_rank": 443,
         "years_exp": 12,
-        "depth_chart_position": "RWR"
+        "depth_chart_position": null
       },
       {
         "player_id": "8917",
@@ -9976,7 +9976,7 @@
         "injury_status": null,
         "search_rank": 371,
         "years_exp": 10,
-        "depth_chart_position": "TE"
+        "depth_chart_position": null
       },
       {
         "player_id": "4995",
@@ -10207,7 +10207,7 @@
         "injury_status": "Out",
         "search_rank": 493,
         "years_exp": 0,
-        "depth_chart_position": "TE"
+        "depth_chart_position": null
       }
     ]
   },
