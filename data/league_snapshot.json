@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T18:58:12.416581+00:00",
+  "generated_at_utc": "2026-11-12T19:57:51.895396+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -79,11 +79,8 @@
       "daily_waivers_last_ran": 26
     },
     "avatar": null,
+    "league_id": "1328462469961613312",
     "company_id": null,
-    "shard": 176,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -129,24 +126,22 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1426340259733471232",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 176,
+    "sport": "nfl",
+    "last_message_id": "1426683821956284416",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794428527343,
+    "last_message_time": 1794510438960,
     "last_pinned_message_id": "1424306807299428352",
-    "last_read_id": null,
     "draft_id": "1328462469970038784",
-    "league_id": "1328462469961613312",
+    "last_read_id": null,
     "previous_league_id": "1264762908156379136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -2161,6 +2161,19 @@
           "is_starter": false,
           "is_reserve": false,
           "is_taxi": true
+        },
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 356,
+          "years_exp": 11,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
         },
         {
           "player_id": "3198",
@@ -4211,6 +4224,7 @@
         "12535",
         "13276",
         "13305",
+        "2505",
         "3198",
         "4137",
         "4217",
@@ -4265,6 +4279,7 @@
         "12535": 0.0,
         "13276": 0.0,
         "13305": 0.0,
+        "2505": 0.0,
         "3198": 0.0,
         "4137": 0.0,
         "4217": 0.0,
@@ -7339,6 +7354,29 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1794510438931,
+        "settings": null,
+        "leg": 10,
+        "draft_picks": [],
+        "creator": "1155579787705110528",
+        "transaction_id": "1426683821838835712",
+        "adds": {
+          "2505": 6
+        },
+        "consenter_ids": [
+          6
+        ],
+        "drops": null,
+        "roster_ids": [
+          6
+        ],
+        "status_updated": 1794510438931,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1794428527314,
         "settings": null,
         "leg": 10,
@@ -7348,10 +7386,10 @@
         "adds": {
           "11559": 7
         },
-        "drops": null,
         "consenter_ids": [
           7
         ],
+        "drops": null,
         "roster_ids": [
           7
         ],
@@ -7369,12 +7407,12 @@
         "creator": "1155579787705110528",
         "transaction_id": "1426262564857221120",
         "adds": null,
-        "drops": {
-          "6130": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "6130": 6
+        },
         "roster_ids": [
           6
         ],
@@ -7392,12 +7430,12 @@
         "creator": "1264983252985192448",
         "transaction_id": "1426262116150542336",
         "adds": null,
-        "drops": {
-          "5849": 4
-        },
         "consenter_ids": [
           4
         ],
+        "drops": {
+          "5849": 4
+        },
         "roster_ids": [
           4
         ],
@@ -8338,17 +8376,6 @@
       "search_rank": 354,
       "years_exp": 1,
       "depth_chart_position": null
-    },
-    {
-      "player_id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 356,
-      "years_exp": 11,
-      "depth_chart_position": "TE"
     },
     {
       "player_id": "13432",
@@ -9317,6 +9344,17 @@
       "search_rank": 523,
       "years_exp": 0,
       "depth_chart_position": "QB"
+    },
+    {
+      "player_id": "13338",
+      "name": "Kevin Coleman Jr.",
+      "position": "WR",
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 523,
+      "years_exp": 0,
+      "depth_chart_position": "SWR"
     }
   ],
   "free_agents_by_position": {
@@ -10505,17 +10543,6 @@
         "depth_chart_position": null
       },
       {
-        "player_id": "2505",
-        "name": "Darren Waller",
-        "position": "TE",
-        "team": "CAR",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 356,
-        "years_exp": 11,
-        "depth_chart_position": "TE"
-      },
-      {
         "player_id": "13432",
         "name": "Khalil Dinkins",
         "position": "TE",
@@ -10778,6 +10805,17 @@
         "search_rank": 504,
         "years_exp": 9,
         "depth_chart_position": null
+      },
+      {
+        "player_id": "7602",
+        "name": "Kylen Granson",
+        "position": "TE",
+        "team": "TEN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 505,
+        "years_exp": 5,
+        "depth_chart_position": "TE"
       }
     ]
   },
