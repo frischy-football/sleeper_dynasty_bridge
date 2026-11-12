@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T14:58:17.850095+00:00",
+  "generated_at_utc": "2026-11-12T16:04:12.015453+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -138,11 +138,15 @@
     "last_message_text_map": null,
     "last_message_time": 1794428527343,
     "last_pinned_message_id": "1424306807299428352",
-    "draft_id": "1328462469970038784",
     "last_read_id": null,
+    "draft_id": "1328462469970038784",
     "league_id": "1328462469961613312",
     "previous_league_id": "1264762908156379136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -166,10 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -2865,7 +2865,7 @@
           "injury_status": null,
           "search_rank": 36,
           "years_exp": 1,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2982,7 +2982,7 @@
           "injury_status": "Out",
           "search_rank": 97,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -4411,7 +4411,7 @@
         "9997",
         "7564",
         "11635",
-        "12517",
+        "8110",
         "9753",
         "6650",
         "SEA"
