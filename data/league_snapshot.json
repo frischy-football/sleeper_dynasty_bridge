@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T06:06:23.877363+00:00",
+  "generated_at_utc": "2026-11-12T07:21:28.170882+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -200,7 +200,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 21,
+          "search_rank": 22,
           "years_exp": 2,
           "is_starter": false,
           "is_reserve": false,
@@ -291,7 +291,7 @@
           "team": "MIA",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 448,
+          "search_rank": 449,
           "years_exp": 1,
           "is_starter": true,
           "is_reserve": false,
@@ -703,7 +703,7 @@
           "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 363,
+          "search_rank": 364,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -794,7 +794,7 @@
           "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12,
+          "search_rank": 11,
           "years_exp": 6,
           "is_starter": true,
           "is_reserve": false,
@@ -1141,7 +1141,7 @@
           "team": "BAL",
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 9,
+          "search_rank": 10,
           "years_exp": 8,
           "is_starter": false,
           "is_reserve": false,
@@ -1167,7 +1167,7 @@
           "team": "LAC",
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 33,
+          "search_rank": 34,
           "years_exp": 6,
           "is_starter": false,
           "is_reserve": false,
@@ -1243,7 +1243,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Out",
           "search_rank": 4,
           "years_exp": 3,
@@ -1258,7 +1258,7 @@
           "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 488,
+          "search_rank": 486,
           "years_exp": 3,
           "is_starter": true,
           "is_reserve": false,
@@ -1397,7 +1397,7 @@
           "team": "ARI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 287,
+          "search_rank": 288,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -1462,7 +1462,7 @@
           "team": "DET",
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 61,
+          "search_rank": 62,
           "years_exp": 10,
           "is_starter": true,
           "is_reserve": false,
@@ -1527,7 +1527,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44,
+          "search_rank": 46,
           "years_exp": 6,
           "is_starter": false,
           "is_reserve": false,
@@ -1705,7 +1705,7 @@
           "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133,
+          "search_rank": 131,
           "years_exp": 2,
           "is_starter": false,
           "is_reserve": false,
@@ -1978,7 +1978,7 @@
           "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131,
+          "search_rank": 130,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -1991,7 +1991,7 @@
           "team": "HOU",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 102,
+          "search_rank": 101,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -2312,7 +2312,7 @@
           "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7,
+          "search_rank": 5,
           "years_exp": 3,
           "is_starter": true,
           "is_reserve": false,
@@ -2425,7 +2425,7 @@
           "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26,
+          "search_rank": 28,
           "years_exp": 2,
           "is_starter": true,
           "is_reserve": false,
@@ -2568,7 +2568,7 @@
           "team": "LAR",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65,
+          "search_rank": 66,
           "years_exp": 17,
           "is_starter": true,
           "is_reserve": false,
@@ -2581,7 +2581,7 @@
           "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 75,
+          "search_rank": 77,
           "years_exp": 8,
           "is_starter": false,
           "is_reserve": false,
@@ -2863,7 +2863,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 35,
+          "search_rank": 36,
           "years_exp": 1,
           "is_starter": true,
           "is_reserve": false,
@@ -2928,7 +2928,7 @@
           "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 39,
+          "search_rank": 40,
           "years_exp": 9,
           "is_starter": false,
           "is_reserve": false,
@@ -3223,7 +3223,7 @@
           "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 109,
+          "search_rank": 110,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -3418,7 +3418,7 @@
           "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 423,
+          "search_rank": 422,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -3700,7 +3700,7 @@
           "team": "GB",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 64,
+          "search_rank": 65,
           "years_exp": 3,
           "is_starter": true,
           "is_reserve": false,
@@ -7675,7 +7675,7 @@
       "team": "MIN",
       "status": "Active",
       "injury_status": "Doubtful",
-      "search_rank": 88,
+      "search_rank": 89,
       "years_exp": 7,
       "depth_chart_position": "QB"
     },
@@ -7708,7 +7708,7 @@
       "team": "IND",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 133,
+      "search_rank": 132,
       "years_exp": 7,
       "depth_chart_position": "QB"
     },
@@ -8472,17 +8472,6 @@
       "depth_chart_position": null
     },
     {
-      "player_id": "13303",
-      "name": "Cade Klubnik",
-      "position": "QB",
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 394,
-      "years_exp": 0,
-      "depth_chart_position": "QB"
-    },
-    {
       "player_id": "4443",
       "name": "Pharaoh Brown",
       "position": "TE",
@@ -8492,6 +8481,17 @@
       "search_rank": 394,
       "years_exp": 9,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "13303",
+      "name": "Cade Klubnik",
+      "position": "QB",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 395,
+      "years_exp": 0,
+      "depth_chart_position": "QB"
     },
     {
       "player_id": "8253",
@@ -8516,13 +8516,24 @@
       "depth_chart_position": null
     },
     {
+      "player_id": "4993",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 399,
+      "years_exp": 8,
+      "depth_chart_position": "TE"
+    },
+    {
       "player_id": "7527",
       "name": "Mac Jones",
       "position": "QB",
       "team": "SF",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 399,
+      "search_rank": 400,
       "years_exp": 5,
       "depth_chart_position": "QB"
     },
@@ -8615,17 +8626,6 @@
       "depth_chart_position": "SWR"
     },
     {
-      "player_id": "7591",
-      "name": "Justin Fields",
-      "position": "QB",
-      "team": "KC",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 429,
-      "years_exp": 5,
-      "depth_chart_position": "QB"
-    },
-    {
       "player_id": "6386",
       "name": "Alex Bachman",
       "position": "WR",
@@ -8635,6 +8635,17 @@
       "search_rank": 429,
       "years_exp": 7,
       "depth_chart_position": null
+    },
+    {
+      "player_id": "7591",
+      "name": "Justin Fields",
+      "position": "QB",
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 430,
+      "years_exp": 5,
+      "depth_chart_position": "QB"
     },
     {
       "player_id": "3202",
@@ -8676,7 +8687,7 @@
       "team": "MIN",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 443,
+      "search_rank": 444,
       "years_exp": 12,
       "depth_chart_position": null
     },
@@ -8690,17 +8701,6 @@
       "search_rank": 446,
       "years_exp": 4,
       "depth_chart_position": "SWR"
-    },
-    {
-      "player_id": "4993",
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 450,
-      "years_exp": 8,
-      "depth_chart_position": "TE"
     },
     {
       "player_id": "13890",
@@ -8769,17 +8769,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 458,
-      "years_exp": 9,
-      "depth_chart_position": "RB"
-    },
-    {
       "player_id": "13533",
       "name": "Barion Brown",
       "position": "WR",
@@ -8789,6 +8778,17 @@
       "search_rank": 458,
       "years_exp": 0,
       "depth_chart_position": "SWR"
+    },
+    {
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 459,
+      "years_exp": 9,
+      "depth_chart_position": "RB"
     },
     {
       "player_id": "4066",
@@ -9033,6 +9033,17 @@
       "depth_chart_position": "QB"
     },
     {
+      "player_id": "12511",
+      "name": "Will Howard",
+      "position": "QB",
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 497,
+      "years_exp": 1,
+      "depth_chart_position": "QB"
+    },
+    {
       "player_id": "13348",
       "name": "J'Mari Taylor",
       "position": "RB",
@@ -9044,24 +9055,13 @@
       "depth_chart_position": null
     },
     {
-      "player_id": "12511",
-      "name": "Will Howard",
-      "position": "QB",
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 499,
-      "years_exp": 1,
-      "depth_chart_position": "QB"
-    },
-    {
       "player_id": "7559",
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
       "team": "CAR",
       "status": "Active",
       "injury_status": "Out",
-      "search_rank": 499,
+      "search_rank": 498,
       "years_exp": 5,
       "depth_chart_position": null
     },
@@ -9328,7 +9328,7 @@
         "team": "MIN",
         "status": "Active",
         "injury_status": "Doubtful",
-        "search_rank": 88,
+        "search_rank": 89,
         "years_exp": 7,
         "depth_chart_position": "QB"
       },
@@ -9339,7 +9339,7 @@
         "team": "IND",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 133,
+        "search_rank": 132,
         "years_exp": 7,
         "depth_chart_position": "QB"
       },
@@ -9471,7 +9471,7 @@
         "team": "NYJ",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 394,
+        "search_rank": 395,
         "years_exp": 0,
         "depth_chart_position": "QB"
       },
@@ -9482,7 +9482,7 @@
         "team": "SF",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 399,
+        "search_rank": 400,
         "years_exp": 5,
         "depth_chart_position": "QB"
       },
@@ -9493,7 +9493,7 @@
         "team": "KC",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 429,
+        "search_rank": 430,
         "years_exp": 5,
         "depth_chart_position": "QB"
       },
@@ -9559,7 +9559,7 @@
         "team": "PIT",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 499,
+        "search_rank": 497,
         "years_exp": 1,
         "depth_chart_position": "QB"
       },
@@ -9792,7 +9792,7 @@
         "team": "CIN",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 458,
+        "search_rank": 459,
         "years_exp": 9,
         "depth_chart_position": "RB"
       },
@@ -10278,7 +10278,7 @@
         "team": "MIN",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 443,
+        "search_rank": 444,
         "years_exp": 12,
         "depth_chart_position": null
       },
@@ -10582,6 +10582,17 @@
         "depth_chart_position": "TE"
       },
       {
+        "player_id": "4993",
+        "name": "Mike Gesicki",
+        "position": "TE",
+        "team": "CIN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 399,
+        "years_exp": 8,
+        "depth_chart_position": "TE"
+      },
+      {
         "player_id": "3239",
         "name": "Bronson Kaufusi",
         "position": "TE",
@@ -10656,17 +10667,6 @@
         "injury_status": null,
         "search_rank": 435,
         "years_exp": 2,
-        "depth_chart_position": "TE"
-      },
-      {
-        "player_id": "4993",
-        "name": "Mike Gesicki",
-        "position": "TE",
-        "team": "CIN",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 450,
-        "years_exp": 8,
         "depth_chart_position": "TE"
       },
       {
