@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T07:01:49.911235+00:00",
+  "generated_at_utc": "2026-11-14T08:05:31.540602+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -128,18 +128,18 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 176,
     "sport": "nfl",
-    "last_message_id": "1427132414441824256",
+    "shard": 176,
+    "last_message_id": "1427231194746986496",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794617391743,
+    "last_message_time": 1794640942802,
     "last_pinned_message_id": "1426833797453729792",
-    "draft_id": "1328462469970038784",
     "last_read_id": null,
     "previous_league_id": "1264762908156379136",
     "roster_positions": [
@@ -1031,6 +1031,19 @@
           "is_taxi": false
         },
         {
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
+          "position": "RB",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 12,
+          "years_exp": 1,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "13274",
           "name": "Germie Bernard",
           "position": "WR",
@@ -1040,6 +1053,19 @@
           "search_rank": 194,
           "years_exp": 0,
           "is_starter": true,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "13276",
+          "name": "Omar Cooper Jr.",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 151,
+          "years_exp": 0,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1055,6 +1081,19 @@
           "is_starter": false,
           "is_reserve": false,
           "is_taxi": true
+        },
+        {
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 123,
+          "years_exp": 0,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
         },
         {
           "player_id": "13317",
@@ -1094,19 +1133,6 @@
           "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
-        },
-        {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 379,
-          "years_exp": 0,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": true
         },
         {
           "player_id": "3257",
@@ -1157,19 +1183,6 @@
           "search_rank": 34,
           "years_exp": 6,
           "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "6813",
-          "name": "Jonathan Taylor",
-          "position": "RB",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 4,
-          "years_exp": 6,
-          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2072,19 +2085,6 @@
           "is_taxi": false
         },
         {
-          "player_id": "12527",
-          "name": "Ashton Jeanty",
-          "position": "RB",
-          "team": "LV",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 12,
-          "years_exp": 1,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
           "player_id": "12535",
           "name": "Isaac TeSlaa",
           "position": "WR",
@@ -2098,26 +2098,13 @@
           "is_taxi": true
         },
         {
-          "player_id": "13276",
-          "name": "Omar Cooper Jr.",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 151,
-          "years_exp": 0,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": true
-        },
-        {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
+          "player_id": "13424",
+          "name": "Seth McGowan",
           "position": "RB",
-          "team": "LV",
+          "team": "IND",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 123,
+          "search_rank": 379,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -2222,6 +2209,19 @@
           "status": "Active",
           "injury_status": null,
           "search_rank": 36,
+          "years_exp": 6,
+          "is_starter": true,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "6813",
+          "name": "Jonathan Taylor",
+          "position": "RB",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 4,
           "years_exp": 6,
           "is_starter": true,
           "is_reserve": false,
@@ -3908,17 +3908,18 @@
         "12487",
         "12508",
         "12512",
+        "12527",
         "13274",
+        "13276",
         "13297",
+        "13305",
         "13317",
         "13337",
         "13346",
-        "13424",
         "3257",
         "4881",
         "5927",
         "6797",
-        "6813",
         "7042",
         "7525",
         "8130",
@@ -3932,7 +3933,7 @@
       "matchup_id": 2,
       "starters": [
         "3257",
-        "6813",
+        "0",
         "12481",
         "13274",
         "9501",
@@ -3963,17 +3964,18 @@
         "12487": 0.0,
         "12508": 0.0,
         "12512": 0.0,
+        "12527": 0.0,
         "13274": 0.0,
+        "13276": 0.0,
         "13297": 0.0,
+        "13305": 0.0,
         "13317": 0.0,
         "13337": 0.0,
         "13346": 0.0,
-        "13424": 0.0,
         "3257": 0.0,
         "4881": 0.0,
         "5927": 0.0,
         "6797": 0.0,
-        "6813": 0.0,
         "7042": 0.0,
         "7525": 0.0,
         "8130": 0.0,
@@ -4162,10 +4164,8 @@
         "11610",
         "11628",
         "11631",
-        "12527",
         "12535",
-        "13276",
-        "13305",
+        "13424",
         "2505",
         "3198",
         "4137",
@@ -4174,6 +4174,7 @@
         "5947",
         "6770",
         "6801",
+        "6813",
         "7523",
         "7553",
         "7839",
@@ -4188,7 +4189,7 @@
       "matchup_id": 4,
       "starters": [
         "6770",
-        "0",
+        "6813",
         "3198",
         "9488",
         "6801",
@@ -4217,10 +4218,8 @@
         "11610": 0.0,
         "11628": 0.0,
         "11631": 0.0,
-        "12527": 0.0,
         "12535": 0.0,
-        "13276": 0.0,
-        "13305": 0.0,
+        "13424": 0.0,
         "2505": 0.0,
         "3198": 0.0,
         "4137": 0.0,
@@ -4229,6 +4228,7 @@
         "5947": 0.0,
         "6770": 0.0,
         "6801": 0.0,
+        "6813": 0.0,
         "7523": 0.0,
         "7553": 0.0,
         "7839": 0.0,
@@ -7038,8 +7038,8 @@
         "draft_picks": [
           {
             "round": 3,
-            "season": "2028",
             "league_id": null,
+            "season": "2028",
             "roster_id": 2,
             "owner_id": 5,
             "previous_owner_id": 2
@@ -7301,12 +7301,12 @@
         "creator": "1264778915197505536",
         "transaction_id": "1427132414315999232",
         "adds": null,
-        "drops": {
-          "11579": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "11579": 3
+        },
         "roster_ids": [
           3
         ],
@@ -7326,10 +7326,10 @@
         "adds": {
           "5848": 9
         },
-        "drops": null,
         "consenter_ids": [
           9
         ],
+        "drops": null,
         "roster_ids": [
           9
         ],
@@ -7347,12 +7347,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1426853954980954112",
         "adds": null,
-        "drops": {
-          "9482": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "9482": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7370,12 +7370,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1426853885472944128",
         "adds": null,
-        "drops": {
-          "3286": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "3286": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7395,12 +7395,12 @@
         "adds": {
           "12185": 8
         },
-        "drops": {
-          "6650": 8
-        },
         "consenter_ids": [
           8
         ],
+        "drops": {
+          "6650": 8
+        },
         "roster_ids": [
           8
         ],
@@ -7418,12 +7418,12 @@
         "creator": "1126265615670505472",
         "transaction_id": "1426754722294939648",
         "adds": null,
-        "drops": {
-          "11729": 5
-        },
         "consenter_ids": [
           5
         ],
+        "drops": {
+          "11729": 5
+        },
         "roster_ids": [
           5
         ],
@@ -7441,12 +7441,12 @@
         "creator": "1126265615670505472",
         "transaction_id": "1426754571186765824",
         "adds": null,
-        "drops": {
-          "12502": 5
-        },
         "consenter_ids": [
           5
         ],
+        "drops": {
+          "12502": 5
+        },
         "roster_ids": [
           5
         ],
@@ -7471,12 +7471,12 @@
         "adds": {
           "4993": 8
         },
-        "drops": {
-          "9508": 8
-        },
         "consenter_ids": [
           8
         ],
+        "drops": {
+          "9508": 8
+        },
         "roster_ids": [
           8
         ],
@@ -7496,14 +7496,70 @@
         "adds": {
           "2505": 6
         },
-        "drops": null,
         "consenter_ids": [
           6
         ],
+        "drops": null,
         "roster_ids": [
           6
         ],
         "status_updated": 1794510438931,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "trade",
+        "metadata": {
+          "notes": "Your trade was processed successfully!",
+          "poll_id": "1426833797395013632",
+          "veto_msg_id": "1426833797453729792"
+        },
+        "created": 1794434666072,
+        "settings": null,
+        "leg": 10,
+        "draft_picks": [
+          {
+            "round": 3,
+            "league_id": null,
+            "season": "2028",
+            "roster_id": 3,
+            "owner_id": 6,
+            "previous_owner_id": 3
+          },
+          {
+            "round": 2,
+            "league_id": null,
+            "season": "2028",
+            "roster_id": 6,
+            "owner_id": 6,
+            "previous_owner_id": 3
+          }
+        ],
+        "creator": "1155579787705110528",
+        "transaction_id": "1426366007429074944",
+        "adds": {
+          "12527": 3,
+          "13276": 3,
+          "13305": 3,
+          "13424": 6,
+          "6813": 6
+        },
+        "consenter_ids": [
+          3,
+          6
+        ],
+        "drops": {
+          "12527": 6,
+          "13276": 6,
+          "13305": 6,
+          "13424": 3,
+          "6813": 3
+        },
+        "roster_ids": [
+          3,
+          6
+        ],
+        "status_updated": 1794640942764,
         "waiver_budget": []
       },
       {
@@ -7519,10 +7575,10 @@
         "adds": {
           "11559": 7
         },
-        "drops": null,
         "consenter_ids": [
           7
         ],
+        "drops": null,
         "roster_ids": [
           7
         ],
@@ -7540,12 +7596,12 @@
         "creator": "1155579787705110528",
         "transaction_id": "1426262564857221120",
         "adds": null,
-        "drops": {
-          "6130": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "6130": 6
+        },
         "roster_ids": [
           6
         ],
@@ -7563,12 +7619,12 @@
         "creator": "1264983252985192448",
         "transaction_id": "1426262116150542336",
         "adds": null,
-        "drops": {
-          "5849": 4
-        },
         "consenter_ids": [
           4
         ],
+        "drops": {
+          "5849": 4
+        },
         "roster_ids": [
           4
         ],
@@ -7677,6 +7733,13 @@
       "previous_owner_id": 3
     },
     {
+      "round": 3,
+      "season": "2028",
+      "roster_id": 3,
+      "owner_id": 6,
+      "previous_owner_id": 3
+    },
+    {
       "round": 1,
       "season": "2026",
       "roster_id": 4,
@@ -7757,8 +7820,8 @@
       "round": 2,
       "season": "2028",
       "roster_id": 6,
-      "owner_id": 3,
-      "previous_owner_id": 6
+      "owner_id": 6,
+      "previous_owner_id": 3
     },
     {
       "round": 3,
