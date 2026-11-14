@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T15:43:35.284783+00:00",
+  "generated_at_utc": "2026-11-14T16:45:10.575285+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -845,7 +845,7 @@
           "position": "RB",
           "team": "KC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 19,
           "years_exp": 4,
           "is_starter": true,
