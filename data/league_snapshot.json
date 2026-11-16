@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-16T22:51:28.250638+00:00",
+  "generated_at_utc": "2026-11-16T23:47:13.135906+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -8664,6 +8664,17 @@
       "depth_chart_position": null
     },
     {
+      "player_id": "11311",
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team": "TEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 336,
+      "years_exp": 3,
+      "depth_chart_position": null
+    },
+    {
       "player_id": "10210",
       "name": "Cameron Latu",
       "position": "TE",
@@ -9674,17 +9685,6 @@
       "search_rank": 515,
       "years_exp": 0,
       "depth_chart_position": "QB"
-    },
-    {
-      "player_id": "12079",
-      "name": "Treyton Welch",
-      "position": "TE",
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 517,
-      "years_exp": 2,
-      "depth_chart_position": null
     }
   ],
   "free_agents_by_position": {
@@ -10475,6 +10475,17 @@
         "depth_chart_position": "RWR"
       },
       {
+        "player_id": "11311",
+        "name": "Jason Brownlee",
+        "position": "WR",
+        "team": "TEN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 336,
+        "years_exp": 3,
+        "depth_chart_position": null
+      },
+      {
         "player_id": "13743",
         "name": "Joseph Manjack IV",
         "position": "WR",
@@ -10682,17 +10693,6 @@
         "search_rank": 472,
         "years_exp": 6,
         "depth_chart_position": null
-      },
-      {
-        "player_id": "13420",
-        "name": "Bryce Lance",
-        "position": "WR",
-        "team": "NO",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 486,
-        "years_exp": 0,
-        "depth_chart_position": "LWR"
       }
     ],
     "TE": [
