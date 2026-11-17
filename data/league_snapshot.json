@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T18:04:02.339886+00:00",
+  "generated_at_utc": "2026-11-17T19:03:59.280262+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -59,7 +59,7 @@
       "reserve_allow_out": 1,
       "reserve_allow_sus": 1,
       "veto_show_votes": 0,
-      "trade_deadline": 11,
+      "trade_deadline": 12,
       "taxi_years": 1,
       "daily_waivers": 0,
       "faab_suggestions": 0,
@@ -84,7 +84,6 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "shard": 176,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -130,6 +129,7 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "shard": 176,
     "last_message_id": "1428461146821648384",
     "draft_id": "1328462469970038784",
     "last_author_avatar": null,
@@ -961,7 +961,7 @@
           "injury_status": null,
           "search_rank": 209,
           "years_exp": 2,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3948,9 +3948,9 @@
         "3257",
         "12527",
         "12481",
-        "13274",
         "7525",
-        "0",
+        "13274",
+        "11834",
         "8130",
         "13337",
         "7042",
@@ -6111,8 +6111,8 @@
         "draft_picks": [
           {
             "round": 3,
-            "season": "2028",
             "league_id": null,
+            "season": "2028",
             "roster_id": 2,
             "owner_id": 5,
             "previous_owner_id": 2
