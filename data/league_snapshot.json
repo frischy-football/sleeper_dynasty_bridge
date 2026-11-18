@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T14:59:34.484894+00:00",
+  "generated_at_utc": "2026-11-18T16:03:57.829789+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -202,7 +202,7 @@
           "injury_status": null,
           "search_rank": 23,
           "years_exp": 2,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -241,7 +241,7 @@
           "injury_status": null,
           "search_rank": 263,
           "years_exp": 14,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -280,7 +280,7 @@
           "injury_status": null,
           "search_rank": 83,
           "years_exp": 1,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -306,7 +306,7 @@
           "injury_status": null,
           "search_rank": 118,
           "years_exp": 1,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -319,7 +319,7 @@
           "injury_status": null,
           "search_rank": 63,
           "years_exp": 1,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -332,7 +332,7 @@
           "injury_status": null,
           "search_rank": 40,
           "years_exp": 1,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -423,7 +423,7 @@
           "injury_status": null,
           "search_rank": 92,
           "years_exp": 10,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -449,7 +449,7 @@
           "injury_status": null,
           "search_rank": 73,
           "years_exp": 7,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -488,7 +488,7 @@
           "injury_status": null,
           "search_rank": 125,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -501,7 +501,7 @@
           "injury_status": null,
           "search_rank": 1,
           "years_exp": 3,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -668,7 +668,7 @@
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
-          "is_taxi": true
+          "is_taxi": false
         },
         {
           "player_id": "13324",
@@ -681,7 +681,7 @@
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
-          "is_taxi": false
+          "is_taxi": true
         },
         {
           "player_id": "13411",
@@ -731,7 +731,7 @@
           "injury_status": null,
           "search_rank": 190,
           "years_exp": 12,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -887,7 +887,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -900,7 +900,7 @@
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         }
@@ -3533,7 +3533,7 @@
           "injury_status": null,
           "search_rank": 118,
           "years_exp": 0,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3715,7 +3715,7 @@
           "injury_status": "Out",
           "search_rank": 99,
           "years_exp": 3,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3783,14 +3783,14 @@
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "1166",
-        "9509",
+        "11560",
         "12495",
+        "8136",
         "8134",
         "11646",
-        "12501",
-        "12506",
-        "3214",
+        "12519",
+        "12493",
+        "5846",
         "6083",
         "KC"
       ],
@@ -3878,8 +3878,8 @@
         "4983",
         "8131",
         "12514",
-        "0",
-        "TB"
+        "2020",
+        "DET"
       ],
       "starters_points": [
         0.0,
@@ -4559,11 +4559,11 @@
         "4984",
         "13414",
         "7594",
-        "8137",
-        "8146",
-        "9756",
-        "9484",
         "11620",
+        "8146",
+        "8137",
+        "9484",
+        "13345",
         "11539",
         "BUF"
       ],
