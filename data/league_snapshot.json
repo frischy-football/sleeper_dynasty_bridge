@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T16:03:57.829789+00:00",
+  "generated_at_utc": "2026-11-18T17:10:29.586054+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -81,6 +81,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1328462469961613312",
+    "shard": 176,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -126,22 +130,23 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 176,
-    "sport": "nfl",
-    "last_message_id": "1428757660878000128",
+    "last_message_id": "1428817728302481408",
+    "draft_id": "1328462469970038784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795004880688,
+    "last_message_time": 1795019201879,
     "last_pinned_message_id": "1428568866715340800",
     "last_read_id": null,
-    "draft_id": "1328462469970038784",
     "previous_league_id": "1264762908156379136",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -165,11 +170,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -3676,7 +3676,7 @@
           "injury_status": null,
           "search_rank": 422,
           "years_exp": 3,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3689,7 +3689,7 @@
           "injury_status": null,
           "search_rank": 64,
           "years_exp": 3,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -4562,7 +4562,7 @@
         "11620",
         "8146",
         "8137",
-        "9484",
+        "9482",
         "13345",
         "11539",
         "BUF"
@@ -8802,17 +8802,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "6957",
-      "name": "James Proche II",
-      "position": "WR",
-      "team": "ARI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 472,
-      "years_exp": 6,
-      "depth_chart_position": null
-    },
-    {
       "player_id": "9229",
       "name": "Anthony Richardson Sr.",
       "position": "QB",
@@ -9196,6 +9185,17 @@
       "search_rank": 512,
       "years_exp": 1,
       "depth_chart_position": null
+    },
+    {
+      "player_id": "13434",
+      "name": "Will Kacmarek",
+      "position": "TE",
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 514,
+      "years_exp": 0,
+      "depth_chart_position": "TE"
     }
   ],
   "free_agents_by_position": {
