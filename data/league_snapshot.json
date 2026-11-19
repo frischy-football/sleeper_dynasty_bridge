@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T23:54:31.982757+00:00",
+  "generated_at_utc": "2026-11-19T01:15:42.121203+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -8669,17 +8669,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "11595",
-      "name": "Jared Wiley",
-      "position": "TE",
-      "team": "KC",
-      "status": "Active",
-      "injury_status": "IR",
-      "search_rank": 435,
-      "years_exp": 2,
-      "depth_chart_position": "TE"
-    },
-    {
       "player_id": "6798",
       "name": "Jalen Reagor",
       "position": "WR",
@@ -9250,6 +9239,17 @@
       "search_rank": 512,
       "years_exp": 1,
       "depth_chart_position": "RB"
+    },
+    {
+      "player_id": "13249",
+      "name": "Thomas Gordon",
+      "position": "TE",
+      "team": "DET",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 512,
+      "years_exp": 1,
+      "depth_chart_position": null
     }
   ],
   "free_agents_by_position": {
@@ -10603,17 +10603,6 @@
         "depth_chart_position": "TE"
       },
       {
-        "player_id": "11595",
-        "name": "Jared Wiley",
-        "position": "TE",
-        "team": "KC",
-        "status": "Active",
-        "injury_status": "IR",
-        "search_rank": 435,
-        "years_exp": 2,
-        "depth_chart_position": "TE"
-      },
-      {
         "player_id": "13319",
         "name": "Oscar Delp",
         "position": "TE",
@@ -10700,6 +10689,17 @@
         "search_rank": 485,
         "years_exp": 2,
         "depth_chart_position": "TE"
+      },
+      {
+        "player_id": "11820",
+        "name": "Devin Culp",
+        "position": "TE",
+        "team": "MIN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 485,
+        "years_exp": 2,
+        "depth_chart_position": null
       }
     ]
   },
