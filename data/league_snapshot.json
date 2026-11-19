@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T11:07:04.395224+00:00",
+  "generated_at_utc": "2026-11-19T12:02:03.603349+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -3356,7 +3356,7 @@
           "search_rank": 94,
           "years_exp": 4,
           "is_starter": false,
-          "is_reserve": false,
+          "is_reserve": true,
           "is_taxi": false
         },
         {
