@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T13:15:36.907620+00:00",
+  "generated_at_utc": "2026-11-20T14:59:04.312012+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -81,11 +81,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1328462469961613312",
-    "last_message_id": "1429468579077570560",
-    "sport": "nfl",
     "shard": 176,
     "season": "2026",
     "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -131,13 +130,14 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1429499860507189248",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795174376795,
+    "last_message_time": 1795181834869,
     "last_pinned_message_id": "1429211675533262848",
     "last_read_id": null,
     "draft_id": "1328462469970038784",
@@ -1208,7 +1208,7 @@
           "injury_status": null,
           "search_rank": 33,
           "years_exp": 5,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1234,7 +1234,7 @@
           "injury_status": null,
           "search_rank": 53,
           "years_exp": 4,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2401,7 +2401,7 @@
           "injury_status": null,
           "search_rank": 21,
           "years_exp": 2,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -2935,19 +2935,6 @@
           "is_taxi": false
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 399,
-          "years_exp": 8,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
           "player_id": "7564",
           "name": "Ja'Marr Chase",
           "position": "WR",
@@ -3082,6 +3069,19 @@
           "name": "Seattle Seahawks",
           "position": "DEF",
           "team": "SEA",
+          "status": null,
+          "injury_status": null,
+          "search_rank": null,
+          "years_exp": null,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "SF",
+          "name": "San Francisco 49ers",
+          "position": "DEF",
+          "team": "SF",
           "status": null,
           "injury_status": null,
           "search_rank": null,
@@ -3961,7 +3961,7 @@
         "3257",
         "12527",
         "12481",
-        "7525",
+        "8148",
         "13296",
         "10218",
         "8130",
@@ -4303,7 +4303,7 @@
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "0",
+        "11566",
         "9224",
         "12490",
         "6786",
@@ -4373,7 +4373,6 @@
         "13413",
         "4037",
         "4046",
-        "4993",
         "7564",
         "7567",
         "8110",
@@ -4384,7 +4383,8 @@
         "9500",
         "9753",
         "9997",
-        "SEA"
+        "SEA",
+        "SF"
       ],
       "roster_id": 8,
       "custom_points": null,
@@ -4399,7 +4399,7 @@
         "12517",
         "11635",
         "12185",
-        "SEA"
+        "SF"
       ],
       "starters_points": [
         0.0,
@@ -4429,7 +4429,6 @@
         "13413": 0.0,
         "4037": 0.0,
         "4046": 0.0,
-        "4993": 0.0,
         "7564": 0.0,
         "7567": 0.0,
         "8110": 0.0,
@@ -4440,7 +4439,8 @@
         "9500": 0.0,
         "9753": 0.0,
         "9997": 0.0,
-        "SEA": 0.0
+        "SEA": 0.0,
+        "SF": 0.0
       }
     },
     {
@@ -7271,6 +7271,52 @@
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
+        "created": 1795181834836,
+        "settings": null,
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1265708049574670336",
+        "transaction_id": "1429499860368752640",
+        "adds": {
+          "SF": 8
+        },
+        "consenter_ids": [
+          8
+        ],
+        "drops": null,
+        "roster_ids": [
+          8
+        ],
+        "status_updated": 1795181834836,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
+        "created": 1795181825924,
+        "settings": null,
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1265708049574670336",
+        "transaction_id": "1429499822989139968",
+        "adds": null,
+        "consenter_ids": [
+          8
+        ],
+        "drops": {
+          "4993": 8
+        },
+        "roster_ids": [
+          8
+        ],
+        "status_updated": 1795181825924,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "free_agent",
+        "metadata": null,
         "created": 1795159367761,
         "settings": null,
         "leg": 11,
@@ -8906,6 +8952,17 @@
       "depth_chart_position": null
     },
     {
+      "player_id": "4993",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 399,
+      "years_exp": 8,
+      "depth_chart_position": "TE"
+    },
+    {
       "player_id": "7527",
       "name": "Mac Jones",
       "position": "QB",
@@ -9641,17 +9698,6 @@
       "search_rank": 508,
       "years_exp": 4,
       "depth_chart_position": "RWR"
-    },
-    {
-      "player_id": "12389",
-      "name": "Hayden Rucci",
-      "position": "TE",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 510,
-      "years_exp": 2,
-      "depth_chart_position": null
     }
   ],
   "free_agents_by_position": {
@@ -10928,6 +10974,17 @@
         "depth_chart_position": null
       },
       {
+        "player_id": "4993",
+        "name": "Mike Gesicki",
+        "position": "TE",
+        "team": "CIN",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 399,
+        "years_exp": 8,
+        "depth_chart_position": "TE"
+      },
+      {
         "player_id": "3239",
         "name": "Bronson Kaufusi",
         "position": "TE",
@@ -11080,17 +11137,6 @@
         "search_rank": 485,
         "years_exp": 2,
         "depth_chart_position": "TE"
-      },
-      {
-        "player_id": "11820",
-        "name": "Devin Culp",
-        "position": "TE",
-        "team": "MIN",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 485,
-        "years_exp": 2,
-        "depth_chart_position": null
       }
     ]
   },
