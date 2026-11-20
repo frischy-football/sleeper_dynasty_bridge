@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T11:06:17.307271+00:00",
+  "generated_at_utc": "2026-11-20T12:00:26.156460+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -81,6 +81,11 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1328462469961613312",
+    "last_message_id": "1429468579077570560",
+    "sport": "nfl",
+    "shard": 176,
+    "season": "2026",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -126,18 +131,13 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 176,
-    "sport": "nfl",
-    "last_message_id": "1429405626747858944",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795159367790,
+    "last_message_time": 1795174376795,
     "last_pinned_message_id": "1429211675533262848",
     "last_read_id": null,
     "draft_id": "1328462469970038784",
@@ -549,7 +549,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 200,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 6
       },
       "players": [
@@ -922,7 +922,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 196,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 3
       },
       "players": [
@@ -1295,7 +1295,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 63,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 8
       },
       "players": [
@@ -1667,8 +1667,8 @@
         "ppts_decimal": 46,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 11,
-        "waiver_position": 2,
+        "waiver_budget_used": 21,
+        "waiver_position": 10,
         "wins": 3
       },
       "players": [
@@ -1996,6 +1996,19 @@
           "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
+        },
+        {
+          "player_id": "PIT",
+          "name": "Pittsburgh Steelers",
+          "position": "DEF",
+          "team": "PIT",
+          "status": null,
+          "injury_status": null,
+          "search_rank": null,
+          "years_exp": null,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
         }
       ]
     },
@@ -2015,7 +2028,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 8
       },
       "players": [
@@ -2362,7 +2375,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 155,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 6
       },
       "players": [
@@ -2722,7 +2735,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 48,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 5
       },
       "players": [
@@ -3095,7 +3108,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 125,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 5
       },
       "players": [
@@ -3429,7 +3442,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 1,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 2
       },
       "players": [
@@ -4113,7 +4126,8 @@
         "9221",
         "9228",
         "9758",
-        "LAR"
+        "LAR",
+        "PIT"
       ],
       "roster_id": 5,
       "custom_points": null,
@@ -4167,7 +4181,8 @@
         "9221": 0.0,
         "9228": 0.0,
         "9758": 21.46,
-        "LAR": 0.0
+        "LAR": 0.0,
+        "PIT": 0.0
       }
     },
     {
@@ -7276,6 +7291,34 @@
         "waiver_budget": []
       },
       {
+        "status": "failed",
+        "type": "waiver",
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        },
+        "created": 1795073590546,
+        "settings": {
+          "seq": 2,
+          "waiver_bid": 2
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1264983252985192448",
+        "transaction_id": "1429045850910228480",
+        "adds": {
+          "PIT": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "drops": null,
+        "roster_ids": [
+          4
+        ],
+        "status_updated": 1795174376543,
+        "waiver_budget": []
+      },
+      {
         "status": "complete",
         "type": "free_agent",
         "metadata": null,
@@ -7296,6 +7339,34 @@
           4
         ],
         "status_updated": 1795069670873,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795062951632,
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 10
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1126265615670505472",
+        "transaction_id": "1429001228066525184",
+        "adds": {
+          "PIT": 5
+        },
+        "consenter_ids": [
+          5
+        ],
+        "drops": null,
+        "roster_ids": [
+          5
+        ],
+        "status_updated": 1795174376543,
         "waiver_budget": []
       },
       {
@@ -7438,6 +7509,34 @@
           9
         ],
         "status_updated": 1795159336816,
+        "waiver_budget": []
+      },
+      {
+        "status": "failed",
+        "type": "waiver",
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        },
+        "created": 1795028533497,
+        "settings": {
+          "seq": 1,
+          "waiver_bid": 6
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1265708049574670336",
+        "transaction_id": "1428856867945189376",
+        "adds": {
+          "PIT": 8
+        },
+        "consenter_ids": [
+          8
+        ],
+        "drops": null,
+        "roster_ids": [
+          8
+        ],
+        "status_updated": 1795174376543,
         "waiver_budget": []
       },
       {
