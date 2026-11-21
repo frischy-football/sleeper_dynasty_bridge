@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-21T16:50:48.468574+00:00",
+  "generated_at_utc": "2026-11-21T17:47:36.199421+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -3342,7 +3342,7 @@
           "injury_status": null,
           "search_rank": 33,
           "years_exp": 5,
-          "is_starter": false,
+          "is_starter": true,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3355,7 +3355,7 @@
           "injury_status": null,
           "search_rank": 42,
           "years_exp": 5,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -4481,7 +4481,7 @@
         "7021",
         "11625",
         "13279",
-        "7526",
+        "7525",
         "8210",
         "10236",
         "11792",
@@ -8239,17 +8239,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "5870",
-      "name": "Daniel Jones",
-      "position": "QB",
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 132,
-      "years_exp": 7,
-      "depth_chart_position": null
-    },
-    {
       "player_id": "6865",
       "name": "Colby Parkinson",
       "position": "TE",
@@ -9669,17 +9658,6 @@
       "depth_chart_position": null
     },
     {
-      "player_id": "7559",
-      "name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "search_rank": 498,
-      "years_exp": 5,
-      "depth_chart_position": null
-    },
-    {
       "player_id": "11320",
       "name": "Nikko Remigio",
       "position": "WR",
@@ -9832,6 +9810,28 @@
       "search_rank": 508,
       "years_exp": 0,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "8119",
+      "name": "Jahan Dotson",
+      "position": "WR",
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 508,
+      "years_exp": 4,
+      "depth_chart_position": "RWR"
+    },
+    {
+      "player_id": "12389",
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 510,
+      "years_exp": 2,
+      "depth_chart_position": null
     }
   ],
   "free_agents_by_position": {
@@ -9846,17 +9846,6 @@
         "search_rank": 88,
         "years_exp": 7,
         "depth_chart_position": "QB"
-      },
-      {
-        "player_id": "5870",
-        "name": "Daniel Jones",
-        "position": "QB",
-        "team": "IND",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 132,
-        "years_exp": 7,
-        "depth_chart_position": null
       },
       {
         "player_id": "138",
