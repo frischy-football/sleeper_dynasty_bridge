@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-23T20:07:00.604317+00:00",
+  "generated_at_utc": "2026-11-23T20:56:39.867709+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -8811,7 +8811,7 @@
       "injury_status": null,
       "search_rank": 277,
       "years_exp": 10,
-      "depth_chart_position": "SWR"
+      "depth_chart_position": null
     },
     {
       "player_id": "12475",
@@ -9009,7 +9009,7 @@
       "injury_status": null,
       "search_rank": 355,
       "years_exp": 1,
-      "depth_chart_position": "TE"
+      "depth_chart_position": null
     },
     {
       "player_id": "2505",
@@ -9053,7 +9053,7 @@
       "injury_status": null,
       "search_rank": 363,
       "years_exp": 10,
-      "depth_chart_position": "TE"
+      "depth_chart_position": null
     },
     {
       "player_id": "7583",
@@ -10710,7 +10710,7 @@
         "injury_status": null,
         "search_rank": 277,
         "years_exp": 10,
-        "depth_chart_position": "SWR"
+        "depth_chart_position": null
       },
       {
         "player_id": "12475",
@@ -11163,7 +11163,7 @@
         "injury_status": null,
         "search_rank": 355,
         "years_exp": 1,
-        "depth_chart_position": "TE"
+        "depth_chart_position": null
       },
       {
         "player_id": "2505",
@@ -11185,7 +11185,7 @@
         "injury_status": null,
         "search_rank": 363,
         "years_exp": 10,
-        "depth_chart_position": "TE"
+        "depth_chart_position": null
       },
       {
         "player_id": "4443",
