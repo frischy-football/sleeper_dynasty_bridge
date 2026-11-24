@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-24T05:12:17.899394+00:00",
+  "generated_at_utc": "2026-11-24T06:05:59.241765+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -44,7 +44,7 @@
       "playoff_type": 1,
       "taxi_slots": 4,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 10,
+      "last_scored_leg": 11,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -81,10 +81,6 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1328462469961613312",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 176,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -130,6 +126,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 176,
+    "sport": "nfl",
     "last_message_id": "1430614581285236736",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -139,14 +139,12 @@
     "last_message_text_map": null,
     "last_message_time": 1795447605013,
     "last_pinned_message_id": "1429211675533262848",
+    "last_read_id": null,
     "draft_id": "1328462469970038784",
     "previous_league_id": "1264762908156379136",
-    "last_read_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +168,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -179,13 +179,13 @@
       "display_name": "ChrBTX",
       "team_name": "Learn to Love the\u2026 ",
       "settings": {
-        "fpts": 1248,
-        "fpts_against": 1381,
-        "fpts_against_decimal": 40,
-        "fpts_decimal": 38,
-        "losses": 6,
-        "ppts": 1471,
-        "ppts_decimal": 32,
+        "fpts": 1334,
+        "fpts_against": 1506,
+        "fpts_against_decimal": 76,
+        "fpts_decimal": 72,
+        "losses": 7,
+        "ppts": 1581,
+        "ppts_decimal": 86,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 125,
@@ -539,13 +539,13 @@
       "display_name": "DrSlick",
       "team_name": "Frida\u2019s Dynasty",
       "settings": {
-        "fpts": 1347,
-        "fpts_against": 1348,
-        "fpts_against_decimal": 80,
-        "fpts_decimal": 0,
-        "losses": 4,
-        "ppts": 1621,
-        "ppts_decimal": 4,
+        "fpts": 1444,
+        "fpts_against": 1540,
+        "fpts_against_decimal": 40,
+        "fpts_decimal": 64,
+        "losses": 5,
+        "ppts": 1747,
+        "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 200,
@@ -912,18 +912,18 @@
       "display_name": "mattkojm",
       "team_name": "Yards After Concussion ",
       "settings": {
-        "fpts": 1270,
-        "fpts_against": 1415,
-        "fpts_against_decimal": 16,
-        "fpts_decimal": 28,
+        "fpts": 1403,
+        "fpts_against": 1538,
+        "fpts_against_decimal": 2,
+        "fpts_decimal": 42,
         "losses": 7,
-        "ppts": 1497,
-        "ppts_decimal": 56,
+        "ppts": 1650,
+        "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 197,
         "waiver_position": 9,
-        "wins": 3
+        "wins": 4
       },
       "players": [
         {
@@ -1272,13 +1272,13 @@
       "display_name": "vishvall",
       "team_name": "Trump National Fball Team",
       "settings": {
-        "fpts": 1376,
-        "fpts_against": 1230,
-        "fpts_against_decimal": 6,
-        "fpts_decimal": 6,
-        "losses": 2,
-        "ppts": 1572,
-        "ppts_decimal": 32,
+        "fpts": 1493,
+        "fpts_against": 1369,
+        "fpts_against_decimal": 12,
+        "fpts_decimal": 72,
+        "losses": 3,
+        "ppts": 1701,
+        "ppts_decimal": 88,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 63,
@@ -1645,18 +1645,18 @@
       "display_name": "antonioesteves",
       "team_name": "Bolsonaro Jailhouse Rock",
       "settings": {
-        "fpts": 1437,
-        "fpts_against": 1349,
-        "fpts_against_decimal": 36,
-        "fpts_decimal": 46,
+        "fpts": 1629,
+        "fpts_against": 1447,
+        "fpts_against_decimal": 0,
+        "fpts_decimal": 6,
         "losses": 7,
-        "ppts": 1698,
-        "ppts_decimal": 46,
+        "ppts": 1890,
+        "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 21,
         "waiver_position": 8,
-        "wins": 3
+        "wins": 4
       },
       "players": [
         {
@@ -2005,18 +2005,18 @@
       "display_name": "Firebird4",
       "team_name": "Sasha\u2019s Revenge",
       "settings": {
-        "fpts": 1559,
-        "fpts_against": 1323,
-        "fpts_against_decimal": 42,
-        "fpts_decimal": 58,
+        "fpts": 1699,
+        "fpts_against": 1400,
+        "fpts_against_decimal": 10,
+        "fpts_decimal": 88,
         "losses": 2,
-        "ppts": 1780,
-        "ppts_decimal": 40,
+        "ppts": 1934,
+        "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
         "waiver_position": 10,
-        "wins": 8
+        "wins": 9
       },
       "players": [
         {
@@ -2352,18 +2352,18 @@
       "display_name": "kayfleisch",
       "team_name": "Carthage War Elephants",
       "settings": {
-        "fpts": 1411,
-        "fpts_against": 1298,
-        "fpts_against_decimal": 98,
-        "fpts_decimal": 12,
+        "fpts": 1536,
+        "fpts_against": 1385,
+        "fpts_against_decimal": 32,
+        "fpts_decimal": 48,
         "losses": 4,
-        "ppts": 1642,
-        "ppts_decimal": 82,
+        "ppts": 1791,
+        "ppts_decimal": 99,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 155,
         "waiver_position": 2,
-        "wins": 6
+        "wins": 7
       },
       "players": [
         {
@@ -2712,13 +2712,13 @@
       "display_name": "mfrisch15",
       "team_name": "Frisch\u2019s F\u00fatbol Factory \ud83c\udfed",
       "settings": {
-        "fpts": 1231,
-        "fpts_against": 1342,
-        "fpts_against_decimal": 40,
-        "fpts_decimal": 50,
-        "losses": 5,
-        "ppts": 1479,
-        "ppts_decimal": 82,
+        "fpts": 1354,
+        "fpts_against": 1475,
+        "fpts_against_decimal": 54,
+        "fpts_decimal": 36,
+        "losses": 6,
+        "ppts": 1625,
+        "ppts_decimal": 28,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 48,
@@ -3085,13 +3085,13 @@
       "display_name": "zeusygoosy",
       "team_name": "\ud83c\udff9zeus\u2019s law\u2694\ufe0f",
       "settings": {
-        "fpts": 1298,
-        "fpts_against": 1297,
-        "fpts_against_decimal": 28,
-        "fpts_decimal": 38,
-        "losses": 5,
-        "ppts": 1573,
-        "ppts_decimal": 68,
+        "fpts": 1375,
+        "fpts_against": 1437,
+        "fpts_against_decimal": 58,
+        "fpts_decimal": 6,
+        "losses": 6,
+        "ppts": 1672,
+        "ppts_decimal": 66,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 125,
@@ -3419,18 +3419,18 @@
       "display_name": "yojoebow",
       "team_name": "Tushy Pushy",
       "settings": {
-        "fpts": 1215,
-        "fpts_against": 1408,
-        "fpts_against_decimal": 58,
-        "fpts_decimal": 68,
+        "fpts": 1354,
+        "fpts_against": 1526,
+        "fpts_against_decimal": 24,
+        "fpts_decimal": 74,
         "losses": 8,
-        "ppts": 1509,
-        "ppts_decimal": 2,
+        "ppts": 1657,
+        "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 1,
         "waiver_position": 6,
-        "wins": 2
+        "wins": 3
       },
       "players": [
         {
@@ -6453,12 +6453,12 @@
         "creator": "1264778915197505536",
         "transaction_id": "1430614581146841088",
         "adds": null,
-        "drops": {
-          "13297": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "13297": 3
+        },
         "roster_ids": [
           3
         ],
@@ -6476,12 +6476,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1430338477903335424",
         "adds": null,
-        "drops": {
-          "11557": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "11557": 9
+        },
         "roster_ids": [
           9
         ],
@@ -6501,10 +6501,10 @@
         "adds": {
           "5906": 9
         },
-        "drops": null,
         "consenter_ids": [
           9
         ],
+        "drops": null,
         "roster_ids": [
           9
         ],
@@ -6524,12 +6524,12 @@
         "adds": {
           "6650": 2
         },
-        "drops": {
-          "2020": 2
-        },
         "consenter_ids": [
           2
         ],
+        "drops": {
+          "2020": 2
+        },
         "roster_ids": [
           2
         ],
@@ -6549,10 +6549,10 @@
         "adds": {
           "12491": 2
         },
-        "drops": null,
         "consenter_ids": [
           2
         ],
+        "drops": null,
         "roster_ids": [
           2
         ],
@@ -6570,12 +6570,12 @@
         "creator": "735298292942041088",
         "transaction_id": "1429758134557085696",
         "adds": null,
-        "drops": {
-          "96": 2
-        },
         "consenter_ids": [
           2
         ],
+        "drops": {
+          "96": 2
+        },
         "roster_ids": [
           2
         ],
@@ -6600,12 +6600,12 @@
         "adds": {
           "11834": 6
         },
-        "drops": {
-          "4147": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "4147": 6
+        },
         "roster_ids": [
           6
         ],
@@ -6625,12 +6625,12 @@
         "adds": {
           "CAR": 4
         },
-        "drops": {
-          "4017": 4
-        },
         "consenter_ids": [
           4
         ],
+        "drops": {
+          "4017": 4
+        },
         "roster_ids": [
           4
         ],
@@ -6650,10 +6650,10 @@
         "adds": {
           "SF": 8
         },
-        "drops": null,
         "consenter_ids": [
           8
         ],
+        "drops": null,
         "roster_ids": [
           8
         ],
@@ -6671,12 +6671,12 @@
         "creator": "1265708049574670336",
         "transaction_id": "1429499822989139968",
         "adds": null,
-        "drops": {
-          "4993": 8
-        },
         "consenter_ids": [
           8
         ],
+        "drops": {
+          "4993": 8
+        },
         "roster_ids": [
           8
         ],
@@ -6694,12 +6694,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1429405626626228224",
         "adds": null,
-        "drops": {
-          "11199": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "11199": 9
+        },
         "roster_ids": [
           9
         ],
@@ -6724,14 +6724,14 @@
           "7525": 9,
           "8167": 3
         },
-        "drops": {
-          "7525": 3,
-          "8167": 9
-        },
         "consenter_ids": [
           3,
           9
         ],
+        "drops": {
+          "7525": 3,
+          "8167": 9
+        },
         "roster_ids": [
           3,
           9
@@ -6757,12 +6757,12 @@
         "adds": {
           "11559": 3
         },
-        "drops": {
-          "11834": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "11834": 3
+        },
         "roster_ids": [
           3
         ],
@@ -6787,10 +6787,10 @@
         "adds": {
           "PIT": 4
         },
-        "drops": null,
         "consenter_ids": [
           4
         ],
+        "drops": null,
         "roster_ids": [
           4
         ],
@@ -6810,10 +6810,10 @@
         "adds": {
           "4017": 4
         },
-        "drops": null,
         "consenter_ids": [
           4
         ],
+        "drops": null,
         "roster_ids": [
           4
         ],
@@ -6838,10 +6838,10 @@
         "adds": {
           "PIT": 5
         },
-        "drops": null,
         "consenter_ids": [
           5
         ],
+        "drops": null,
         "roster_ids": [
           5
         ],
@@ -6885,16 +6885,16 @@
           "4983": 1,
           "5859": 1
         },
+        "consenter_ids": [
+          1,
+          2
+        ],
         "drops": {
           "1166": 1,
           "12519": 1,
           "4983": 2,
           "5859": 2
         },
-        "consenter_ids": [
-          1,
-          2
-        ],
         "roster_ids": [
           1,
           2
@@ -6915,10 +6915,10 @@
         "adds": {
           "4147": 6
         },
-        "drops": null,
         "consenter_ids": [
           6
         ],
+        "drops": null,
         "roster_ids": [
           6
         ],
@@ -6936,12 +6936,12 @@
         "creator": "1155579787705110528",
         "transaction_id": "1428882729348390912",
         "adds": null,
-        "drops": {
-          "2505": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "2505": 6
+        },
         "roster_ids": [
           6
         ],
@@ -6975,14 +6975,14 @@
           "13274": 9,
           "8148": 3
         },
-        "drops": {
-          "13274": 3,
-          "8148": 9
-        },
         "consenter_ids": [
           3,
           9
         ],
+        "drops": {
+          "13274": 3,
+          "8148": 9
+        },
         "roster_ids": [
           3,
           9
@@ -7008,10 +7008,10 @@
         "adds": {
           "PIT": 8
         },
-        "drops": null,
         "consenter_ids": [
           8
         ],
+        "drops": null,
         "roster_ids": [
           8
         ],
@@ -7045,14 +7045,14 @@
           "11566": 7,
           "11625": 9
         },
-        "drops": {
-          "11566": 9,
-          "11625": 7
-        },
         "consenter_ids": [
           7,
           9
         ],
+        "drops": {
+          "11566": 9,
+          "11625": 7
+        },
         "roster_ids": [
           7,
           9
@@ -7082,12 +7082,12 @@
         "creator": "1265444209784008704",
         "transaction_id": "1428841783550308352",
         "adds": null,
-        "drops": {
-          "11559": 7
-        },
         "consenter_ids": [
           7
         ],
+        "drops": {
+          "11559": 7
+        },
         "roster_ids": [
           7
         ],
@@ -7107,10 +7107,10 @@
         "adds": {
           "11630": 9
         },
-        "drops": null,
         "consenter_ids": [
           9
         ],
+        "drops": null,
         "roster_ids": [
           9
         ],
@@ -7128,12 +7128,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1428757586701721600",
         "adds": null,
-        "drops": {
-          "PIT": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "PIT": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7153,12 +7153,12 @@
         "adds": {
           "13075": 9
         },
-        "drops": {
-          "12482": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "12482": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7178,12 +7178,12 @@
         "adds": {
           "11199": 9
         },
-        "drops": {
-          "5848": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "5848": 9
+        },
         "roster_ids": [
           9
         ],
