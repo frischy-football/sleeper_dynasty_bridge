@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-24T22:01:48.442418+00:00",
+  "generated_at_utc": "2026-11-24T23:01:19.663607+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -3582,7 +3582,7 @@
           "position": "RB",
           "team": "DEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Sus",
           "search_rank": 68,
           "years_exp": 6,
           "is_starter": false,
