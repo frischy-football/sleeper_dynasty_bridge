@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-25T07:25:57.997815+00:00",
+  "generated_at_utc": "2026-11-25T09:15:34.084153+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -11,7 +11,7 @@
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
-    "display_week": 11,
+    "display_week": 12,
     "league_create_season": "2026",
     "season_has_scores": true
   },
@@ -73,7 +73,7 @@
       "trade_review_days": 1,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 11,
+      "leg": 12,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 26
@@ -130,23 +130,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1430997876091150336",
-    "draft_id": "1328462469970038784",
+    "last_message_id": "1431230221691932672",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795538989617,
+    "last_message_time": 1795594385125,
     "last_pinned_message_id": "1429211675533262848",
     "last_read_id": null,
+    "draft_id": "1328462469970038784",
     "previous_league_id": "1264762908156379136",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -170,6 +165,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "manager_rosters": [
@@ -225,7 +225,7 @@
           "position": "WR",
           "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 132,
           "years_exp": 2,
           "is_starter": true,
@@ -407,7 +407,7 @@
           "position": "QB",
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 92,
           "years_exp": 8,
           "is_starter": false,
@@ -420,7 +420,7 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 49,
           "years_exp": 8,
           "is_starter": true,
@@ -446,7 +446,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 17,
           "years_exp": 7,
           "is_starter": false,
@@ -549,7 +549,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 200,
-        "waiver_position": 7,
+        "waiver_position": 9,
         "wins": 6
       },
       "players": [
@@ -598,7 +598,7 @@
           "position": "TE",
           "team": "LV",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 19,
           "years_exp": 2,
           "is_starter": false,
@@ -736,6 +736,19 @@
           "is_taxi": true
         },
         {
+          "player_id": "13968",
+          "name": "Drew Stevens",
+          "position": "K",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 630,
+          "years_exp": 0,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
@@ -769,19 +782,6 @@
           "status": "Active",
           "injury_status": null,
           "search_rank": 42,
-          "years_exp": 7,
-          "is_starter": true,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 199,
           "years_exp": 7,
           "is_starter": true,
           "is_reserve": false,
@@ -845,7 +845,7 @@
           "position": "RB",
           "team": "KC",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 19,
           "years_exp": 4,
           "is_starter": false,
@@ -879,10 +879,10 @@
           "is_taxi": false
         },
         {
-          "player_id": "DET",
-          "name": "Detroit Lions",
+          "player_id": "GB",
+          "name": "Green Bay Packers",
           "position": "DEF",
-          "team": "DET",
+          "team": "GB",
           "status": null,
           "injury_status": null,
           "search_rank": null,
@@ -922,7 +922,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 197,
-        "waiver_position": 9,
+        "waiver_position": 10,
         "wins": 4
       },
       "players": [
@@ -1062,7 +1062,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 151,
           "years_exp": 0,
           "is_starter": false,
@@ -1135,15 +1135,15 @@
           "is_taxi": true
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "1373",
+          "name": "Geno Smith",
           "position": "QB",
-          "team": "BAL",
+          "team": "NYJ",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 203,
-          "years_exp": 10,
-          "is_starter": true,
+          "search_rank": 210,
+          "years_exp": 13,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1183,6 +1183,19 @@
           "search_rank": 288,
           "years_exp": 6,
           "is_starter": true,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 669,
+          "years_exp": 4,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1252,15 +1265,15 @@
           "is_taxi": false
         },
         {
-          "player_id": "LAC",
-          "name": "Los Angeles Chargers",
+          "player_id": "NYJ",
+          "name": "New York Jets",
           "position": "DEF",
-          "team": "LAC",
+          "team": "NYJ",
           "status": null,
           "injury_status": null,
           "search_rank": null,
           "years_exp": null,
-          "is_starter": true,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         }
@@ -1281,8 +1294,8 @@
         "ppts_decimal": 88,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 63,
-        "waiver_position": 5,
+        "waiver_budget_used": 103,
+        "waiver_position": 7,
         "wins": 8
       },
       "players": [
@@ -1292,7 +1305,7 @@
           "position": "TE",
           "team": "DET",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 58,
           "years_exp": 3,
           "is_starter": true,
@@ -1344,7 +1357,7 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 105,
           "years_exp": 1,
           "is_starter": false,
@@ -1383,7 +1396,7 @@
           "position": "QB",
           "team": "ARI",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 287,
           "years_exp": 0,
           "is_starter": false,
@@ -1396,7 +1409,7 @@
           "position": "RB",
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 167,
           "years_exp": 0,
           "is_starter": false,
@@ -1409,7 +1422,7 @@
           "position": "WR",
           "team": "MIA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 197,
           "years_exp": 0,
           "is_starter": false,
@@ -1547,19 +1560,6 @@
           "is_taxi": false
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 103,
-          "years_exp": 6,
-          "is_starter": false,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
           "player_id": "7547",
           "name": "Amon-Ra St. Brown",
           "position": "WR",
@@ -1569,6 +1569,19 @@
           "search_rank": 7,
           "years_exp": 5,
           "is_starter": true,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 230,
+          "years_exp": 5,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1612,15 +1625,15 @@
           "is_taxi": false
         },
         {
-          "player_id": "CAR",
-          "name": "Carolina Panthers",
-          "position": "DEF",
-          "team": "CAR",
-          "status": null,
+          "player_id": "9229",
+          "name": "Anthony Richardson Sr.",
+          "position": "QB",
+          "team": "IND",
+          "status": "Active",
           "injury_status": null,
-          "search_rank": null,
-          "years_exp": null,
-          "is_starter": true,
+          "search_rank": 476,
+          "years_exp": 3,
+          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -1655,7 +1668,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 21,
-        "waiver_position": 8,
+        "waiver_position": 5,
         "wins": 4
       },
       "players": [
@@ -1691,7 +1704,7 @@
           "position": "K",
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 132,
           "years_exp": 2,
           "is_starter": true,
@@ -1860,7 +1873,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 94,
           "years_exp": 8,
           "is_starter": false,
@@ -1899,7 +1912,7 @@
           "position": "WR",
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 19,
           "years_exp": 4,
           "is_starter": false,
@@ -2015,7 +2028,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 10,
+        "waiver_position": 6,
         "wins": 9
       },
       "players": [
@@ -2077,7 +2090,7 @@
           "position": "WR",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 73,
           "years_exp": 2,
           "is_starter": false,
@@ -2142,7 +2155,7 @@
           "position": "RB",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 7,
           "years_exp": 10,
           "is_starter": true,
@@ -2181,7 +2194,7 @@
           "position": "RB",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 10,
           "years_exp": 8,
           "is_starter": true,
@@ -2463,7 +2476,7 @@
           "position": "QB",
           "team": "LAR",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 242,
           "years_exp": 0,
           "is_starter": false,
@@ -2593,7 +2606,7 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 20,
           "years_exp": 7,
           "is_starter": false,
@@ -2632,7 +2645,7 @@
           "position": "WR",
           "team": null,
           "status": "Active",
-          "injury_status": "DNR",
+          "injury_status": null,
           "search_rank": 177,
           "years_exp": 6,
           "is_starter": false,
@@ -2722,7 +2735,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 48,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 5
       },
       "players": [
@@ -2953,7 +2966,7 @@
           "position": "TE",
           "team": "DAL",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 97,
           "years_exp": 4,
           "is_starter": false,
@@ -3094,8 +3107,8 @@
         "ppts_decimal": 66,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 125,
-        "waiver_position": 3,
+        "waiver_budget_used": 153,
+        "waiver_position": 8,
         "wins": 5
       },
       "players": [
@@ -3118,7 +3131,7 @@
           "position": "TE",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 81,
           "years_exp": 3,
           "is_starter": false,
@@ -3178,6 +3191,19 @@
           "is_taxi": false
         },
         {
+          "player_id": "12496",
+          "name": "Tai Felton",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 693,
+          "years_exp": 1,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
           "player_id": "12540",
           "name": "Chimere Dike",
           "position": "WR",
@@ -3200,19 +3226,6 @@
           "search_rank": 88,
           "years_exp": 1,
           "is_starter": true,
-          "is_reserve": false,
-          "is_taxi": false
-        },
-        {
-          "player_id": "13075",
-          "name": "Myles Price",
-          "position": "WR",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 664,
-          "years_exp": 1,
-          "is_starter": false,
           "is_reserve": false,
           "is_taxi": false
         },
@@ -3287,7 +3300,7 @@
           "position": "WR",
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 508,
           "years_exp": 0,
           "is_starter": false,
@@ -3295,13 +3308,26 @@
           "is_taxi": true
         },
         {
-          "player_id": "5906",
-          "name": "Dawson Knox",
-          "position": "TE",
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 458,
+          "years_exp": 9,
+          "is_starter": false,
+          "is_reserve": false,
+          "is_taxi": false
+        },
+        {
+          "player_id": "6039",
+          "name": "Ty Johnson",
+          "position": "RB",
           "team": "BUF",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 684,
+          "search_rank": 534,
           "years_exp": 7,
           "is_starter": false,
           "is_reserve": false,
@@ -3429,7 +3455,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 1,
-        "waiver_position": 6,
+        "waiver_position": 4,
         "wins": 3
       },
       "players": [
@@ -3439,7 +3465,7 @@
           "position": "RB",
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 161,
           "years_exp": 3,
           "is_starter": false,
@@ -3647,7 +3673,7 @@
           "position": "RB",
           "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 13,
           "years_exp": 4,
           "is_starter": false,
@@ -3699,7 +3725,7 @@
           "position": "WR",
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 99,
           "years_exp": 3,
           "is_starter": false,
@@ -3839,10 +3865,10 @@
         "13324",
         "13411",
         "13421",
+        "13968",
         "1479",
         "2216",
         "5892",
-        "6650",
         "6794",
         "6797",
         "8131",
@@ -3850,7 +3876,7 @@
         "8151",
         "8408",
         "9754",
-        "DET",
+        "GB",
         "TB"
       ],
       "roster_id": 2,
@@ -3865,7 +3891,7 @@
         "12519",
         "8131",
         "10229",
-        "6650",
+        "0",
         "TB"
       ],
       "starters_points": [
@@ -3895,10 +3921,10 @@
         "13324": 0.0,
         "13411": 0.0,
         "13421": 0.0,
+        "13968": 0.0,
         "1479": 0.0,
         "2216": 0.0,
         "5892": 0.0,
-        "6650": 0.0,
         "6794": 0.0,
         "6797": 0.0,
         "8131": 0.0,
@@ -3906,7 +3932,7 @@
         "8151": 0.0,
         "8408": 0.0,
         "9754": 0.0,
-        "DET": 0.0,
+        "GB": 0.0,
         "TB": 0.0
       }
     },
@@ -3929,22 +3955,23 @@
         "13317",
         "13337",
         "13346",
-        "3257",
+        "1373",
         "4881",
         "5927",
         "7042",
+        "8122",
         "8130",
         "8148",
         "8167",
         "9480",
         "9493",
-        "LAC"
+        "NYJ"
       ],
       "roster_id": 3,
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "3257",
+        "0",
         "12527",
         "12481",
         "8167",
@@ -3953,7 +3980,7 @@
         "8130",
         "12512",
         "7042",
-        "LAC"
+        "0"
       ],
       "starters_points": [
         0.0,
@@ -3984,16 +4011,17 @@
         "13317": 0.0,
         "13337": 0.0,
         "13346": 0.0,
-        "3257": 0.0,
+        "1373": 0.0,
         "4881": 0.0,
         "5927": 0.0,
         "7042": 0.0,
+        "8122": 0.0,
         "8130": 0.0,
         "8148": 0.0,
         "8167": 0.0,
         "9480": 0.0,
         "9493": 0.0,
-        "LAC": 0.0
+        "NYJ": 0.0
       }
     },
     {
@@ -4019,12 +4047,12 @@
         "5995",
         "6790",
         "6904",
-        "7002",
         "7547",
+        "7600",
         "8126",
         "8144",
         "9225",
-        "CAR",
+        "9229",
         "MIN"
       ],
       "roster_id": 4,
@@ -4075,12 +4103,12 @@
         "5995": 0.0,
         "6790": 0.0,
         "6904": 0.0,
-        "7002": 0.0,
         "7547": 0.0,
+        "7600": 0.0,
         "8126": 0.0,
         "8144": 0.0,
         "9225": 0.0,
-        "CAR": 0.0,
+        "9229": 0.0,
         "MIN": 0.0
       }
     },
@@ -4437,16 +4465,17 @@
         "11630",
         "11792",
         "12489",
+        "12496",
         "12540",
         "12545",
-        "13075",
         "13269",
         "13274",
         "13279",
         "13294",
         "13330",
         "13380",
-        "5906",
+        "4147",
+        "6039",
         "7021",
         "7525",
         "7526",
@@ -4490,16 +4519,17 @@
         "11630": 0.0,
         "11792": 0.0,
         "12489": 0.0,
+        "12496": 0.0,
         "12540": 0.0,
         "12545": 0.0,
-        "13075": 0.0,
         "13269": 0.0,
         "13274": 0.0,
         "13279": 0.0,
         "13294": 0.0,
         "13330": 0.0,
         "13380": 0.0,
-        "5906": 0.0,
+        "4147": 0.0,
+        "6039": 0.0,
         "7021": 0.0,
         "7525": 0.0,
         "7526": 0.0,
@@ -6444,6 +6474,332 @@
     "11": [
       {
         "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795586855164,
+        "settings": {
+          "priority": 3,
+          "seq": 5,
+          "waiver_bid": 5
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "890612043944792064",
+        "transaction_id": "1431198638750584832",
+        "adds": {
+          "6039": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "drops": {
+          "5906": 9
+        },
+        "roster_ids": [
+          9
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795586639070,
+        "settings": {
+          "priority": 1,
+          "seq": 1,
+          "waiver_bid": 13
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "890612043944792064",
+        "transaction_id": "1431197732386664448",
+        "adds": {
+          "12496": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "drops": {
+          "13075": 9
+        },
+        "roster_ids": [
+          9
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795586584695,
+        "settings": {
+          "priority": 2,
+          "seq": 4,
+          "waiver_bid": 10
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "890612043944792064",
+        "transaction_id": "1431197504321380352",
+        "adds": {
+          "4147": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "drops": null,
+        "roster_ids": [
+          9
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "failed",
+        "type": "waiver",
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        },
+        "created": 1795586423088,
+        "settings": {
+          "priority": 0,
+          "seq": 2,
+          "waiver_bid": 11
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "890612043944792064",
+        "transaction_id": "1431196826492489728",
+        "adds": {
+          "9229": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "drops": null,
+        "roster_ids": [
+          9
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795541675681,
+        "settings": {
+          "seq": 9,
+          "waiver_bid": 0
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "735298292942041088",
+        "transaction_id": "1431009142260117504",
+        "adds": {
+          "13968": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "drops": {
+          "6650": 2
+        },
+        "roster_ids": [
+          2
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795541509186,
+        "settings": {
+          "seq": 7,
+          "waiver_bid": 0
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "735298292942041088",
+        "transaction_id": "1431008443929493504",
+        "adds": {
+          "GB": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "drops": {
+          "DET": 2
+        },
+        "roster_ids": [
+          2
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795535073197,
+        "settings": {
+          "seq": 11,
+          "waiver_bid": 0
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1430981449435062272",
+        "adds": {
+          "8122": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": null,
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795462594616,
+        "settings": {
+          "seq": 3,
+          "waiver_bid": 10
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1264983252985192448",
+        "transaction_id": "1430677452232884224",
+        "adds": {
+          "7600": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "drops": {
+          "7002": 4
+        },
+        "roster_ids": [
+          4
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795453222223,
+        "settings": {
+          "seq": 10,
+          "waiver_bid": 0
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1430638141567401984",
+        "adds": {
+          "NYJ": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": {
+          "LAC": 3
+        },
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795452597628,
+        "settings": {
+          "seq": 8,
+          "waiver_bid": 0
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1264778915197505536",
+        "transaction_id": "1430635521826115584",
+        "adds": {
+          "1373": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "drops": {
+          "3257": 3
+        },
+        "roster_ids": [
+          3
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "failed",
+        "type": "waiver",
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        },
+        "created": 1795449908607,
+        "settings": {
+          "seq": 6,
+          "waiver_bid": 0
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "735298292942041088",
+        "transaction_id": "1430624243254575104",
+        "adds": {
+          "9229": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "drops": null,
+        "roster_ids": [
+          2
+        ],
+        "status_updated": 1795594384997,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
         "type": "free_agent",
         "metadata": null,
         "created": 1795447604980,
@@ -6453,12 +6809,12 @@
         "creator": "1264778915197505536",
         "transaction_id": "1430614581146841088",
         "adds": null,
-        "drops": {
-          "13297": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "13297": 3
+        },
         "roster_ids": [
           3
         ],
@@ -6476,12 +6832,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1430338477903335424",
         "adds": null,
-        "drops": {
-          "11557": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "11557": 9
+        },
         "roster_ids": [
           9
         ],
@@ -6501,10 +6857,10 @@
         "adds": {
           "5906": 9
         },
-        "drops": null,
         "consenter_ids": [
           9
         ],
+        "drops": null,
         "roster_ids": [
           9
         ],
@@ -6524,12 +6880,12 @@
         "adds": {
           "6650": 2
         },
-        "drops": {
-          "2020": 2
-        },
         "consenter_ids": [
           2
         ],
+        "drops": {
+          "2020": 2
+        },
         "roster_ids": [
           2
         ],
@@ -6549,10 +6905,10 @@
         "adds": {
           "12491": 2
         },
-        "drops": null,
         "consenter_ids": [
           2
         ],
+        "drops": null,
         "roster_ids": [
           2
         ],
@@ -6570,16 +6926,46 @@
         "creator": "735298292942041088",
         "transaction_id": "1429758134557085696",
         "adds": null,
-        "drops": {
-          "96": 2
-        },
         "consenter_ids": [
           2
         ],
+        "drops": {
+          "96": 2
+        },
         "roster_ids": [
           2
         ],
         "status_updated": 1795243412201,
+        "waiver_budget": []
+      },
+      {
+        "status": "complete",
+        "type": "waiver",
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "created": 1795198885089,
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 30
+        },
+        "leg": 11,
+        "draft_picks": [],
+        "creator": "1264983252985192448",
+        "transaction_id": "1429571374308950016",
+        "adds": {
+          "9229": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "drops": {
+          "CAR": 4
+        },
+        "roster_ids": [
+          4
+        ],
+        "status_updated": 1795594384997,
         "waiver_budget": []
       },
       {
@@ -6600,12 +6986,12 @@
         "adds": {
           "11834": 6
         },
-        "drops": {
-          "4147": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "4147": 6
+        },
         "roster_ids": [
           6
         ],
@@ -6625,12 +7011,12 @@
         "adds": {
           "CAR": 4
         },
-        "drops": {
-          "4017": 4
-        },
         "consenter_ids": [
           4
         ],
+        "drops": {
+          "4017": 4
+        },
         "roster_ids": [
           4
         ],
@@ -6650,10 +7036,10 @@
         "adds": {
           "SF": 8
         },
-        "drops": null,
         "consenter_ids": [
           8
         ],
+        "drops": null,
         "roster_ids": [
           8
         ],
@@ -6671,12 +7057,12 @@
         "creator": "1265708049574670336",
         "transaction_id": "1429499822989139968",
         "adds": null,
-        "drops": {
-          "4993": 8
-        },
         "consenter_ids": [
           8
         ],
+        "drops": {
+          "4993": 8
+        },
         "roster_ids": [
           8
         ],
@@ -6694,12 +7080,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1429405626626228224",
         "adds": null,
-        "drops": {
-          "11199": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "11199": 9
+        },
         "roster_ids": [
           9
         ],
@@ -6724,14 +7110,14 @@
           "7525": 9,
           "8167": 3
         },
-        "drops": {
-          "7525": 3,
-          "8167": 9
-        },
         "consenter_ids": [
           3,
           9
         ],
+        "drops": {
+          "7525": 3,
+          "8167": 9
+        },
         "roster_ids": [
           3,
           9
@@ -6757,12 +7143,12 @@
         "adds": {
           "11559": 3
         },
-        "drops": {
-          "11834": 3
-        },
         "consenter_ids": [
           3
         ],
+        "drops": {
+          "11834": 3
+        },
         "roster_ids": [
           3
         ],
@@ -6787,10 +7173,10 @@
         "adds": {
           "PIT": 4
         },
-        "drops": null,
         "consenter_ids": [
           4
         ],
+        "drops": null,
         "roster_ids": [
           4
         ],
@@ -6810,10 +7196,10 @@
         "adds": {
           "4017": 4
         },
-        "drops": null,
         "consenter_ids": [
           4
         ],
+        "drops": null,
         "roster_ids": [
           4
         ],
@@ -6838,10 +7224,10 @@
         "adds": {
           "PIT": 5
         },
-        "drops": null,
         "consenter_ids": [
           5
         ],
+        "drops": null,
         "roster_ids": [
           5
         ],
@@ -6885,16 +7271,16 @@
           "4983": 1,
           "5859": 1
         },
+        "consenter_ids": [
+          1,
+          2
+        ],
         "drops": {
           "1166": 1,
           "12519": 1,
           "4983": 2,
           "5859": 2
         },
-        "consenter_ids": [
-          1,
-          2
-        ],
         "roster_ids": [
           1,
           2
@@ -6915,10 +7301,10 @@
         "adds": {
           "4147": 6
         },
-        "drops": null,
         "consenter_ids": [
           6
         ],
+        "drops": null,
         "roster_ids": [
           6
         ],
@@ -6936,12 +7322,12 @@
         "creator": "1155579787705110528",
         "transaction_id": "1428882729348390912",
         "adds": null,
-        "drops": {
-          "2505": 6
-        },
         "consenter_ids": [
           6
         ],
+        "drops": {
+          "2505": 6
+        },
         "roster_ids": [
           6
         ],
@@ -6975,14 +7361,14 @@
           "13274": 9,
           "8148": 3
         },
-        "drops": {
-          "13274": 3,
-          "8148": 9
-        },
         "consenter_ids": [
           3,
           9
         ],
+        "drops": {
+          "13274": 3,
+          "8148": 9
+        },
         "roster_ids": [
           3,
           9
@@ -7008,10 +7394,10 @@
         "adds": {
           "PIT": 8
         },
-        "drops": null,
         "consenter_ids": [
           8
         ],
+        "drops": null,
         "roster_ids": [
           8
         ],
@@ -7045,14 +7431,14 @@
           "11566": 7,
           "11625": 9
         },
-        "drops": {
-          "11566": 9,
-          "11625": 7
-        },
         "consenter_ids": [
           7,
           9
         ],
+        "drops": {
+          "11566": 9,
+          "11625": 7
+        },
         "roster_ids": [
           7,
           9
@@ -7082,12 +7468,12 @@
         "creator": "1265444209784008704",
         "transaction_id": "1428841783550308352",
         "adds": null,
-        "drops": {
-          "11559": 7
-        },
         "consenter_ids": [
           7
         ],
+        "drops": {
+          "11559": 7
+        },
         "roster_ids": [
           7
         ],
@@ -7107,10 +7493,10 @@
         "adds": {
           "11630": 9
         },
-        "drops": null,
         "consenter_ids": [
           9
         ],
+        "drops": null,
         "roster_ids": [
           9
         ],
@@ -7128,12 +7514,12 @@
         "creator": "890612043944792064",
         "transaction_id": "1428757586701721600",
         "adds": null,
-        "drops": {
-          "PIT": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "PIT": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7153,12 +7539,12 @@
         "adds": {
           "13075": 9
         },
-        "drops": {
-          "12482": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "12482": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7178,12 +7564,12 @@
         "adds": {
           "11199": 9
         },
-        "drops": {
-          "5848": 9
-        },
         "consenter_ids": [
           9
         ],
+        "drops": {
+          "5848": 9
+        },
         "roster_ids": [
           9
         ],
@@ -7489,10 +7875,21 @@
       "position": "QB",
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "search_rank": 89,
       "years_exp": 7,
       "depth_chart_position": "QB"
+    },
+    {
+      "player_id": "7002",
+      "name": "Juwan Johnson",
+      "position": "TE",
+      "team": "NO",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "search_rank": 103,
+      "years_exp": 6,
+      "depth_chart_position": "TE"
     },
     {
       "player_id": "7049",
@@ -7522,7 +7919,7 @@
       "position": "TE",
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "search_rank": 131,
       "years_exp": 9,
       "depth_chart_position": "TE"
@@ -7720,7 +8117,7 @@
       "position": "WR",
       "team": "ATL",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "search_rank": 185,
       "years_exp": 0,
       "depth_chart_position": "SWR"
@@ -7753,7 +8150,7 @@
       "position": "RB",
       "team": "NO",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 190,
       "years_exp": 2,
       "depth_chart_position": "RB"
@@ -7797,10 +8194,21 @@
       "position": "WR",
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 201,
       "years_exp": 0,
       "depth_chart_position": "LWR"
+    },
+    {
+      "player_id": "3257",
+      "name": "Jacoby Brissett",
+      "position": "QB",
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 203,
+      "years_exp": 10,
+      "depth_chart_position": "QB"
     },
     {
       "player_id": "7571",
@@ -7812,17 +8220,6 @@
       "search_rank": 203,
       "years_exp": 5,
       "depth_chart_position": "LWR"
-    },
-    {
-      "player_id": "1373",
-      "name": "Geno Smith",
-      "position": "QB",
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 210,
-      "years_exp": 13,
-      "depth_chart_position": "QB"
     },
     {
       "player_id": "13401",
@@ -7866,17 +8263,6 @@
       "injury_status": null,
       "search_rank": 230,
       "years_exp": 4,
-      "depth_chart_position": "TE"
-    },
-    {
-      "player_id": "7600",
-      "name": "Pat Freiermuth",
-      "position": "TE",
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 230,
-      "years_exp": 5,
       "depth_chart_position": "TE"
     },
     {
@@ -7940,7 +8326,7 @@
       "position": "TE",
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 243,
       "years_exp": 4,
       "depth_chart_position": "TE"
@@ -8050,7 +8436,7 @@
       "position": "TE",
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 303,
       "years_exp": 2,
       "depth_chart_position": "TE"
@@ -8215,7 +8601,7 @@
       "position": "QB",
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 362,
       "years_exp": 0,
       "depth_chart_position": "QB"
@@ -8237,7 +8623,7 @@
       "position": "QB",
       "team": "DEN",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 371,
       "years_exp": 5,
       "depth_chart_position": "QB"
@@ -8292,7 +8678,7 @@
       "position": "WR",
       "team": "BUF",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 390,
       "years_exp": 0,
       "depth_chart_position": "SWR"
@@ -8446,7 +8832,7 @@
       "position": "RB",
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 412,
       "years_exp": 0,
       "depth_chart_position": "RB"
@@ -8633,7 +9019,7 @@
       "position": "TE",
       "team": "HOU",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "search_rank": 454,
       "years_exp": 5,
       "depth_chart_position": "TE"
@@ -8648,17 +9034,6 @@
       "search_rank": 454,
       "years_exp": 0,
       "depth_chart_position": "TE"
-    },
-    {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 458,
-      "years_exp": 9,
-      "depth_chart_position": "RB"
     },
     {
       "player_id": "4066",
@@ -8727,17 +9102,6 @@
       "depth_chart_position": "TE"
     },
     {
-      "player_id": "9229",
-      "name": "Anthony Richardson Sr.",
-      "position": "QB",
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 476,
-      "years_exp": 3,
-      "depth_chart_position": "QB"
-    },
-    {
       "player_id": "6147",
       "name": "Clayton Thorson",
       "position": "QB",
@@ -8754,7 +9118,7 @@
       "position": "TE",
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 482,
       "years_exp": 0,
       "depth_chart_position": "TE"
@@ -8809,7 +9173,7 @@
       "position": "RB",
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 488,
       "years_exp": 0,
       "depth_chart_position": "RB"
@@ -8908,7 +9272,7 @@
       "position": "QB",
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 497,
       "years_exp": 1,
       "depth_chart_position": "QB"
@@ -8941,7 +9305,7 @@
       "position": "QB",
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 499,
       "years_exp": 1,
       "depth_chart_position": "QB"
@@ -8996,7 +9360,7 @@
       "position": "WR",
       "team": "LV",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "search_rank": 502,
       "years_exp": 0,
       "depth_chart_position": "SWR"
@@ -9132,6 +9496,28 @@
       "search_rank": 514,
       "years_exp": 0,
       "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "13404",
+      "name": "Garrett Nussmeier",
+      "position": "QB",
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 515,
+      "years_exp": 0,
+      "depth_chart_position": "QB"
+    },
+    {
+      "player_id": "12079",
+      "name": "Treyton Welch",
+      "position": "TE",
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 517,
+      "years_exp": 2,
+      "depth_chart_position": null
     }
   ],
   "free_agents_by_position": {
@@ -9142,7 +9528,7 @@
         "position": "QB",
         "team": "MIN",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "search_rank": 89,
         "years_exp": 7,
         "depth_chart_position": "QB"
@@ -9170,14 +9556,14 @@
         "depth_chart_position": "QB"
       },
       {
-        "player_id": "1373",
-        "name": "Geno Smith",
+        "player_id": "3257",
+        "name": "Jacoby Brissett",
         "position": "QB",
-        "team": "NYJ",
+        "team": "BAL",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 210,
-        "years_exp": 13,
+        "search_rank": 203,
+        "years_exp": 10,
         "depth_chart_position": "QB"
       },
       {
@@ -9241,7 +9627,7 @@
         "position": "QB",
         "team": "PIT",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 362,
         "years_exp": 0,
         "depth_chart_position": "QB"
@@ -9252,7 +9638,7 @@
         "position": "QB",
         "team": "DEN",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 371,
         "years_exp": 5,
         "depth_chart_position": "QB"
@@ -9302,17 +9688,6 @@
         "depth_chart_position": "QB"
       },
       {
-        "player_id": "9229",
-        "name": "Anthony Richardson Sr.",
-        "position": "QB",
-        "team": "IND",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 476,
-        "years_exp": 3,
-        "depth_chart_position": "QB"
-      },
-      {
         "player_id": "6147",
         "name": "Clayton Thorson",
         "position": "QB",
@@ -9351,7 +9726,7 @@
         "position": "QB",
         "team": "PIT",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 497,
         "years_exp": 1,
         "depth_chart_position": "QB"
@@ -9362,7 +9737,7 @@
         "position": "QB",
         "team": "MIN",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 499,
         "years_exp": 1,
         "depth_chart_position": "QB"
@@ -9387,6 +9762,17 @@
         "injury_status": null,
         "search_rank": 508,
         "years_exp": 11,
+        "depth_chart_position": "QB"
+      },
+      {
+        "player_id": "13404",
+        "name": "Garrett Nussmeier",
+        "position": "QB",
+        "team": "KC",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 515,
+        "years_exp": 0,
         "depth_chart_position": "QB"
       }
     ],
@@ -9474,7 +9860,7 @@
         "position": "RB",
         "team": "NO",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 190,
         "years_exp": 2,
         "depth_chart_position": "RB"
@@ -9540,7 +9926,7 @@
         "position": "RB",
         "team": "BAL",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 412,
         "years_exp": 0,
         "depth_chart_position": "RB"
@@ -9579,17 +9965,6 @@
         "depth_chart_position": null
       },
       {
-        "player_id": "4147",
-        "name": "Samaje Perine",
-        "position": "RB",
-        "team": "CIN",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 458,
-        "years_exp": 9,
-        "depth_chart_position": "RB"
-      },
-      {
         "player_id": "13277",
         "name": "CJ Donaldson",
         "position": "RB",
@@ -9606,7 +9981,7 @@
         "position": "RB",
         "team": "PIT",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 488,
         "years_exp": 0,
         "depth_chart_position": "RB"
@@ -9740,7 +10115,7 @@
         "position": "WR",
         "team": "ATL",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "search_rank": 185,
         "years_exp": 0,
         "depth_chart_position": "SWR"
@@ -9784,7 +10159,7 @@
         "position": "WR",
         "team": "BAL",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 201,
         "years_exp": 0,
         "depth_chart_position": "LWR"
@@ -9949,7 +10324,7 @@
         "position": "WR",
         "team": "BUF",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 390,
         "years_exp": 0,
         "depth_chart_position": "SWR"
@@ -10111,6 +10486,17 @@
     ],
     "TE": [
       {
+        "player_id": "7002",
+        "name": "Juwan Johnson",
+        "position": "TE",
+        "team": "NO",
+        "status": "Active",
+        "injury_status": "Questionable",
+        "search_rank": 103,
+        "years_exp": 6,
+        "depth_chart_position": "TE"
+      },
+      {
         "player_id": "11603",
         "name": "AJ Barner",
         "position": "TE",
@@ -10127,7 +10513,7 @@
         "position": "TE",
         "team": "LAC",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "search_rank": 131,
         "years_exp": 9,
         "depth_chart_position": "TE"
@@ -10210,23 +10596,12 @@
         "depth_chart_position": "TE"
       },
       {
-        "player_id": "7600",
-        "name": "Pat Freiermuth",
-        "position": "TE",
-        "team": "PIT",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 230,
-        "years_exp": 5,
-        "depth_chart_position": "TE"
-      },
-      {
         "player_id": "8219",
         "name": "Jelani Woods",
         "position": "TE",
         "team": "NYJ",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 243,
         "years_exp": 4,
         "depth_chart_position": "TE"
@@ -10259,7 +10634,7 @@
         "position": "TE",
         "team": "CIN",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 303,
         "years_exp": 2,
         "depth_chart_position": "TE"
@@ -10490,7 +10865,7 @@
         "position": "TE",
         "team": "HOU",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "search_rank": 454,
         "years_exp": 5,
         "depth_chart_position": "TE"
@@ -10545,7 +10920,7 @@
         "position": "TE",
         "team": "MIA",
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "search_rank": 482,
         "years_exp": 0,
         "depth_chart_position": "TE"
