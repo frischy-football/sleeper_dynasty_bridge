@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-28T03:15:18.238014+00:00",
+  "generated_at_utc": "2026-11-28T12:55:02.578520+00:00",
   "league_id": "1328462469961613312",
   "sleeper_username": "mfrisch15",
   "my_user_id": "1265708049574670336",
@@ -408,7 +408,7 @@
           "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 93,
+          "search_rank": 92,
           "years_exp": 8,
           "is_starter": false,
           "is_reserve": false,
@@ -612,7 +612,7 @@
           "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 261,
+          "search_rank": 260,
           "years_exp": 14,
           "is_starter": true,
           "is_reserve": false,
@@ -690,7 +690,7 @@
           "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 627,
+          "search_rank": 626,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -716,7 +716,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 363,
+          "search_rank": 364,
           "years_exp": 0,
           "is_starter": false,
           "is_reserve": false,
@@ -794,7 +794,7 @@
           "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12,
+          "search_rank": 11,
           "years_exp": 6,
           "is_starter": true,
           "is_reserve": false,
@@ -1154,7 +1154,7 @@
           "team": "BAL",
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 12,
+          "search_rank": 11,
           "years_exp": 8,
           "is_starter": false,
           "is_reserve": false,
@@ -1540,7 +1540,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44,
+          "search_rank": 46,
           "years_exp": 6,
           "is_starter": true,
           "is_reserve": false,
@@ -1631,7 +1631,7 @@
           "team": "IND",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 474,
+          "search_rank": 473,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -1965,7 +1965,7 @@
           "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131,
+          "search_rank": 130,
           "years_exp": 3,
           "is_starter": false,
           "is_reserve": false,
@@ -2325,7 +2325,7 @@
           "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6,
+          "search_rank": 5,
           "years_exp": 3,
           "is_starter": true,
           "is_reserve": false,
@@ -2425,7 +2425,7 @@
           "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26,
+          "search_rank": 27,
           "years_exp": 2,
           "is_starter": true,
           "is_reserve": false,
@@ -2451,7 +2451,7 @@
           "team": "IND",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 49,
+          "search_rank": 48,
           "years_exp": 1,
           "is_starter": false,
           "is_reserve": false,
@@ -3492,7 +3492,7 @@
           "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "search_rank": 45,
+          "search_rank": 46,
           "years_exp": 2,
           "is_starter": false,
           "is_reserve": false,
@@ -8583,7 +8583,7 @@
       "team": "CLE",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 291,
+      "search_rank": 290,
       "years_exp": 9,
       "depth_chart_position": "QB"
     },
@@ -8704,7 +8704,7 @@
       "team": "SF",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 349,
+      "search_rank": 347,
       "years_exp": 0,
       "depth_chart_position": null
     },
@@ -8819,17 +8819,6 @@
       "depth_chart_position": null
     },
     {
-      "player_id": "4443",
-      "name": "Pharaoh Brown",
-      "position": "TE",
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 386,
-      "years_exp": 9,
-      "depth_chart_position": "TE"
-    },
-    {
       "player_id": "4995",
       "name": "Ian Thomas",
       "position": "TE",
@@ -8838,6 +8827,17 @@
       "injury_status": null,
       "search_rank": 387,
       "years_exp": 8,
+      "depth_chart_position": "TE"
+    },
+    {
+      "player_id": "4443",
+      "name": "Pharaoh Brown",
+      "position": "TE",
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 388,
+      "years_exp": 9,
       "depth_chart_position": "TE"
     },
     {
@@ -8924,7 +8924,7 @@
       "team": "SF",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 403,
+      "search_rank": 402,
       "years_exp": 5,
       "depth_chart_position": "QB"
     },
@@ -9089,7 +9089,7 @@
       "team": "DAL",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 445,
+      "search_rank": 444,
       "years_exp": 4,
       "depth_chart_position": "SWR"
     },
@@ -9100,7 +9100,7 @@
       "team": "MIN",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 446,
+      "search_rank": 447,
       "years_exp": 12,
       "depth_chart_position": null
     },
@@ -9199,7 +9199,7 @@
       "team": "DEN",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 463,
+      "search_rank": 461,
       "years_exp": 9,
       "depth_chart_position": "TE"
     },
@@ -9413,6 +9413,17 @@
       "depth_chart_position": "QB"
     },
     {
+      "player_id": "12775",
+      "name": "Max Brosmer",
+      "position": "QB",
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 497,
+      "years_exp": 1,
+      "depth_chart_position": "QB"
+    },
+    {
       "player_id": "12511",
       "name": "Will Howard",
       "position": "QB",
@@ -9444,17 +9455,6 @@
       "search_rank": 498,
       "years_exp": 3,
       "depth_chart_position": "SWR"
-    },
-    {
-      "player_id": "12775",
-      "name": "Max Brosmer",
-      "position": "QB",
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 499,
-      "years_exp": 1,
-      "depth_chart_position": "QB"
     },
     {
       "player_id": "13705",
@@ -9763,7 +9763,7 @@
         "team": "CLE",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 291,
+        "search_rank": 290,
         "years_exp": 9,
         "depth_chart_position": "QB"
       },
@@ -9818,7 +9818,7 @@
         "team": "SF",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 403,
+        "search_rank": 402,
         "years_exp": 5,
         "depth_chart_position": "QB"
       },
@@ -9878,10 +9878,10 @@
         "depth_chart_position": "QB"
       },
       {
-        "player_id": "12511",
-        "name": "Will Howard",
+        "player_id": "12775",
+        "name": "Max Brosmer",
         "position": "QB",
-        "team": "PIT",
+        "team": "MIN",
         "status": "Active",
         "injury_status": null,
         "search_rank": 497,
@@ -9889,13 +9889,13 @@
         "depth_chart_position": "QB"
       },
       {
-        "player_id": "12775",
-        "name": "Max Brosmer",
+        "player_id": "12511",
+        "name": "Will Howard",
         "position": "QB",
-        "team": "MIN",
+        "team": "PIT",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 499,
+        "search_rank": 497,
         "years_exp": 1,
         "depth_chart_position": "QB"
       },
@@ -10603,7 +10603,7 @@
         "team": "DAL",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 445,
+        "search_rank": 444,
         "years_exp": 4,
         "depth_chart_position": "SWR"
       },
@@ -10614,7 +10614,7 @@
         "team": "MIN",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 446,
+        "search_rank": 447,
         "years_exp": 12,
         "depth_chart_position": null
       },
@@ -10847,7 +10847,7 @@
         "team": "SF",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 349,
+        "search_rank": 347,
         "years_exp": 0,
         "depth_chart_position": null
       },
@@ -10907,17 +10907,6 @@
         "depth_chart_position": null
       },
       {
-        "player_id": "4443",
-        "name": "Pharaoh Brown",
-        "position": "TE",
-        "team": "IND",
-        "status": "Active",
-        "injury_status": null,
-        "search_rank": 386,
-        "years_exp": 9,
-        "depth_chart_position": "TE"
-      },
-      {
         "player_id": "4995",
         "name": "Ian Thomas",
         "position": "TE",
@@ -10926,6 +10915,17 @@
         "injury_status": null,
         "search_rank": 387,
         "years_exp": 8,
+        "depth_chart_position": "TE"
+      },
+      {
+        "player_id": "4443",
+        "name": "Pharaoh Brown",
+        "position": "TE",
+        "team": "IND",
+        "status": "Active",
+        "injury_status": null,
+        "search_rank": 388,
+        "years_exp": 9,
         "depth_chart_position": "TE"
       },
       {
@@ -11067,7 +11067,7 @@
         "team": "DEN",
         "status": "Active",
         "injury_status": null,
-        "search_rank": 463,
+        "search_rank": 461,
         "years_exp": 9,
         "depth_chart_position": "TE"
       },
